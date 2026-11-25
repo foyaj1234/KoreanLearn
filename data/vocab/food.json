@@ -1,0 +1,22 @@
+[
+  { "id": "food-001", "ko": "밥", "pron": "পাপ", "bn": "ভাত / খাবার", "en": "rice / meal", "example": { "ko": "밥을 먹었어요.", "bn": "ভাত খেয়েছি।", "en": "I ate a meal." } },
+  { "id": "food-002", "ko": "국", "pron": "কুক", "bn": "স্যুপ", "en": "soup", "example": { "ko": "국이 뜨거워요.", "bn": "স্যুপ গরম।", "en": "The soup is hot." } },
+  { "id": "food-003", "ko": "김치", "pron": "কিমচি", "bn": "কিমচি", "en": "kimchi", "example": { "ko": "김치가 매워요.", "bn": "কিমচি ঝাল।", "en": "The kimchi is spicy." } },
+  { "id": "food-004", "ko": "라면", "pron": "রামিয়ন", "bn": "ইনস্ট্যান্ট নুডলস", "en": "instant noodles", "example": { "ko": "라면을 끓였어요.", "bn": "নুডলস রেঁধেছি।", "en": "I cooked instant noodles." } },
+  { "id": "food-005", "ko": "불고기", "pron": "পুলগোগি", "bn": "বুলগোগি (মাংসের পদ)", "en": "bulgogi (grilled beef)", "example": { "ko": "불고기가 맛있어요.", "bn": "বুলগোগি সুস্বাদু।", "en": "Bulgogi is delicious." } },
+  { "id": "food-006", "ko": "비빔밥", "pron": "বিবিমপাপ", "bn": "বিবিমবাপ (মিশ্রিত ভাত)", "en": "bibimbap (mixed rice)", "example": { "ko": "비빔밥을 주세요.", "bn": "বিবিমবাপ দিন।", "en": "Please give me bibimbap." } },
+  { "id": "food-007", "ko": "떡볶이", "pron": "তোকবোক্কি", "bn": "তোকবোক্কি (চালের কেক)", "en": "tteokbokki (rice cakes in sauce)", "example": { "ko": "떡볶이가 달고 매워요.", "bn": "তোকবোক্কি মিষ্টি ও ঝাল।", "en": "Tteokbokki is sweet and spicy." } },
+  { "id": "food-008", "ko": "김밥", "pron": "কিমপাপ", "bn": "কিমবাপ (সুশি জাতীয় রোল)", "en": "kimbap (rice roll)", "example": { "ko": "김밥을 싸서 갔어요.", "bn": "কিমবাপ বানিয়ে নিয়ে গেছি।", "en": "I made kimbap and brought it." } },
+  { "id": "food-009", "ko": "삼겹살", "pron": "সামগিওপসাল", "bn": "শুয়োরের পেটের মাংস", "en": "pork belly", "example": { "ko": "삼겹살을 구워 먹어요.", "bn": "শুয়োরের মাংস সেঁকে খাই।", "en": "We grill and eat pork belly." } },
+  { "id": "food-010", "ko": "치킨", "pron": "ছিকিন", "bn": "চিকেন (ফ্রায়েড)", "en": "chicken (fried)", "example": { "ko": "치킨을 시켰어요.", "bn": "চিকেন অর্ডার করেছি।", "en": "I ordered fried chicken." } },
+  { "id": "food-011", "ko": "만두", "pron": "মানদু", "bn": "মোমো / ডাম্পলিং", "en": "dumplings", "example": { "ko": "만두를 찌었어요.", "bn": "মোমো ভাপিয়েছি।", "en": "I steamed dumplings." } },
+  { "id": "food-012", "ko": "빵", "pron": "প্পাং", "bn": "রুটি / ব্রেড", "en": "bread", "example": { "ko": "아침에 빵을 먹어요.", "bn": "সকালে রুটি খাই।", "en": "I eat bread in the morning." } },
+  { "id": "food-013", "ko": "계란", "pron": "কিয়রান", "bn": "ডিম", "en": "egg", "example": { "ko": "계란을 삶았어요.", "bn": "ডিম সেদ্ধ করেছি।", "en": "I boiled an egg." } },
+  { "id": "food-014", "ko": "두부", "pron": "তুবু", "bn": "টোফু", "en": "tofu", "example": { "ko": "두부가 부드러워요.", "bn": "টোফু নরম।", "en": "The tofu is soft." } },
+  { "id": "food-015", "ko": "물", "pron": "মুল", "bn": "জল", "en": "water", "example": { "ko": "물 좀 주세요.", "bn": "একটু জল দিন।", "en": "Please give me some water." } },
+  { "id": "food-016", "ko": "우유", "pron": "উইউ", "bn": "দুধ", "en": "milk", "example": { "ko": "매일 우유를 마셔요.", "bn": "প্রতিদিন দুধ পান করি।", "en": "I drink milk every day." } },
+  { "id": "food-017", "ko": "커피", "pron": "খোপি", "bn": "কফি", "en": "coffee", "example": { "ko": "커피를 마시고 싶어요.", "bn": "কফি পান করতে চাই।", "en": "I want to drink coffee." } },
+  { "id": "food-018", "ko": "차", "pron": "ছা", "bn": "চা", "en": "tea", "example": { "ko": "따뜻한 차를 마셔요.", "bn": "গরম চা পান করি।", "en": "I drink warm tea." } },
+  { "id": "food-019", "ko": "과일", "pron": "কোয়াইল", "bn": "ফল", "en": "fruit", "example": { "ko": "과일을 좋아해요.", "bn": "ফল ভালোবাসি।", "en": "I like fruit." } },
+  { "id": "food-020", "ko": "간식", "pron": "কানশিক", "bn": "নাস্তা / জলখাবার", "en": "snack", "example": { "ko": "간식으로 과자를 먹었어요.", "bn": "জলখাবারে বিস্কুট খেয়েছি।", "en": "I had cookies as a snack." } }
+]
