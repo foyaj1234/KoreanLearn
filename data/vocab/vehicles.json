@@ -1,0 +1,22 @@
+[
+  { "id": "veh-001", "ko": "버스", "pron": "বোসু", "bn": "বাস", "en": "bus", "example": { "ko": "버스를 타고 가요.", "bn": "বাসে চড়ে যাই।", "en": "I go by bus." } },
+  { "id": "veh-002", "ko": "기차", "pron": "কিছা", "bn": "ট্রেন", "en": "train", "example": { "ko": "기차로 서울에 가요.", "bn": "ট্রেনে সিউল যাই।", "en": "I go to Seoul by train." } },
+  { "id": "veh-003", "ko": "자동차", "pron": "জাদোংছা", "bn": "গাড়ি", "en": "car", "example": { "ko": "자동차가 필요해요.", "bn": "গাড়ি দরকার।", "en": "I need a car." } },
+  { "id": "veh-004", "ko": "택시", "pron": "তেকশি", "bn": "ট্যাক্সি", "en": "taxi", "example": { "ko": "택시를 잡았어요.", "bn": "ট্যাক্সি ধরেছি।", "en": "I hailed a taxi." } },
+  { "id": "veh-005", "ko": "지하철", "pron": "জিহাচোল", "bn": "মেট্রো / পাতাল রেল", "en": "subway / metro", "example": { "ko": "지하철이 빨라요.", "bn": "মেট্রো দ্রুত।", "en": "The subway is fast." } },
+  { "id": "veh-006", "ko": "자전거", "pron": "জাজনগো", "bn": "সাইকেল", "en": "bicycle", "example": { "ko": "자전거를 타고 공원에 가요.", "bn": "সাইকেল চালিয়ে পার্কে যাই।", "en": "I ride a bike to the park." } },
+  { "id": "veh-007", "ko": "오토바이", "pron": "ওতোবাই", "bn": "মোটরসাইকেল", "en": "motorcycle", "example": { "ko": "오토바이가 시끄러워요.", "bn": "মোটরসাইকেল কোলাহল করে।", "en": "The motorcycle is noisy." } },
+  { "id": "veh-008", "ko": "비행기", "pron": "পিহেংগি", "bn": "বিমান", "en": "airplane", "example": { "ko": "비행기로 한국에 가요.", "bn": "বিমানে কোরিয়া যাই।", "en": "I go to Korea by plane." } },
+  { "id": "veh-009", "ko": "배", "pron": "বে", "bn": "জাহাজ / নৌকা", "en": "ship / boat", "example": { "ko": "배를 타고 섬에 가요.", "bn": "জাহাজে চড়ে দ্বীপে যাই।", "en": "I take a boat to the island." } },
+  { "id": "veh-010", "ko": "배", "pron": "বে", "bn": "জাহাজ / নৌকা", "en": "ship / boat (duplicate of 009)", "example": { "ko": "배가 부산에 도착했어요.", "bn": "জাহাজ বুসানে পৌঁছেছে।", "en": "The ship arrived in Busan." } },
+  { "id": "veh-011", "ko": "고속버스", "pron": "কোসোকবোসু", "bn": "এক্সপ্রেস বাস", "en": "express bus", "example": { "ko": "고속버스로 부산에 가요.", "bn": "এক্সপ্রেস বাসে বুসান যাই।", "en": "I go to Busan by express bus." } },
+  { "id": "veh-012", "ko": "트럭", "pron": "তুরুক", "bn": "ট্রাক", "en": "truck", "example": { "ko": "트럭이 짐을 나르고 있어요.", "bn": "ট্রাক মাল বহন করছে।", "en": "The truck is carrying goods." } },
+  { "id": "veh-013", "ko": "지프", "pron": "জিপু", "bn": "জিপ", "en": "jeep / SUV", "example": { "ko": "지프가 산을 잘 올라가요.", "bn": "জিপ পাহাড়ে ভালো ওঠে।", "en": "The jeep climbs mountains well." } },
+  { "id": "veh-014", "ko": "전동킥보드", "pron": "জondong-kikbordeu", "bn": "ইলেকট্রিক স্কুটার", "en": "electric scooter", "example": { "ko": "전동킥보드를 타요.", "bn": "ইলেকট্রিক স্কুটার চালাই।", "en": "I ride an electric scooter." } },
+  { "id": "veh-015", "ko": "헬기", "pron": "হেলগি", "bn": "হেলিকপ্টার", "en": "helicopter", "example": { "ko": "헬기가 하늘을 날아요.", "bn": "হেলিকপ্টার আকাশে ওড়ে।", "en": "The helicopter flies in the sky." } },
+  { "id": "veh-016", "ko": "농기계", "pron": "নোংগিগে", "bn": "কৃষি যন্ত্র / ট্রাক্টর", "en": "farm machine / tractor", "example": { "ko": "농기계로 밭을 갈아요.", "bn": "ট্রাক্টর দিয়ে জমি চাষ করি।", "en": "I plow the field with a tractor." } },
+  { "id": "veh-017", "ko": "전철", "pron": "জনচোল", "bn": "শহরতলি রেল", "en": "urban rail", "example": { "ko": "전철을 자주 타요.", "bn": "প্রায়ই শহরের রেল ধরি।", "en": "I often take the urban rail." } },
+  { "id": "veh-018", "ko": "초등학생용 자전거", "pron": "chododeunghaksaeng-yong jajeongeo", "bn": "বাচ্চাদের সাইকেল", "en": "children's bicycle", "example": { "ko": "초등학생용 자전거를 샀어요.", "bn": "বাচ্চাদের সাইকেল কিনেছি।", "en": "I bought a children's bicycle." } },
+  { "id": "veh-019", "ko": "여객선", "pron": "ইয়োগেকসন", "bn": "যাত্রী জাহাজ", "en": "passenger ship", "example": { "ko": "여객선이 부두에 있어요.", "bn": "যাত্রী জাহাজ ঘাটে আছে।", "en": "The passenger ship is at the pier." } },
+  { "id": "veh-020", "ko": "화물차", "pron": "হোয়ামুলছা", "bn": "মালবাহী গাড়ি", "en": "cargo / freight truck", "example": { "ko": "화물차가 공장에 왔어요.", "bn": "মালবাহী গাড়ি কারখানায় এসেছে।", "en": "A cargo truck came to the factory." } }
+]
