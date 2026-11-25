@@ -1,0 +1,22 @@
+[
+  { "id": "ani-001", "ko": "개", "pron": "কে", "bn": "কুকুর", "en": "dog", "example": { "ko": "강아지가 귀여워요.", "bn": "কুকুরের বাচ্চা আদুরে।", "en": "The puppy is cute." } },
+  { "id": "ani-002", "ko": "고양이", "pron": "কোইয়াংই", "bn": "বিড়াল", "en": "cat", "example": { "ko": "고양이가 자요.", "bn": "বিড়াল ঘুমাচ্ছে।", "en": "The cat is sleeping." } },
+  { "id": "ani-003", "ko": "말", "pron": "মাল", "bn": "ঘোড়া", "en": "horse", "example": { "ko": "말을 타요.", "bn": "ঘোড়ায় চড়ি।", "en": "I ride a horse." } },
+  { "id": "ani-004", "ko": "소", "pron": "সো", "bn": "গরু", "en": "cow", "example": { "ko": "소가 풀을 먹어요.", "bn": "গরু ঘাস খায়।", "en": "The cow eats grass." } },
+  { "id": "ani-005", "ko": "돼지", "pron": "দ্যেজি", "bn": "শূকর", "en": "pig", "example": { "ko": "돼지가 뚱뚱해요.", "bn": "শূকর মোটা।", "en": "The pig is fat." } },
+  { "id": "ani-006", "ko": "닭", "pron": "তাক", "bn": "মুরগি", "en": "chicken", "example": { "ko": "닭고기를 좋아해요.", "bn": "মুরগির মাংস ভালোবাসি।", "en": "I like chicken meat." } },
+  { "id": "ani-007", "ko": "오리", "pron": "ওরি", "bn": "হাঁস", "en": "duck", "example": { "ko": "오리가 헤엄쳐요.", "bn": "হাঁস সাঁতার কাটে।", "en": "The duck swims." } },
+  { "id": "ani-008", "ko": "토끼", "pron": "তোক্কি", "bn": "খরগোশ", "en": "rabbit", "example": { "ko": "토끼가 당근을 먹어요.", "bn": "খরগোশ গাজর খায়।", "en": "The rabbit eats a carrot." } },
+  { "id": "ani-009", "ko": "호랑이", "pron": "হোরাংই", "bn": "বাঘ", "en": "tiger", "example": { "ko": "호랑이가 무서워요.", "bn": "বাঘ ভয়ংকর।", "en": "The tiger is scary." } },
+  { "id": "ani-010", "ko": "사자", "pron": "সাজা", "bn": "সিংহ", "en": "lion", "example": { "ko": "사자가 크게 울어요.", "bn": "সিংহ জোরে গর্জন করে।", "en": "The lion roars loudly." } },
+  { "id": "ani-011", "ko": "곰", "pron": "কম", "bn": "ভালুক", "en": "bear", "example": { "ko": "곰이 꿀을 좋아해요.", "bn": "ভালুক মধু ভালোবাসে।", "en": "The bear likes honey." } },
+  { "id": "ani-012", "ko": "코끼리", "pron": "খোক্কিরি", "bn": "হাতি", "en": "elephant", "example": { "ko": "코끼리가 코가 길어요.", "bn": "হাতির শুঁড় লম্বা।", "en": "The elephant has a long trunk." } },
+  { "id": "ani-013", "ko": "원숭이", "pron": "ওনসুংই", "bn": "বানর", "en": "monkey", "example": { "ko": "원숭이가 나무를 타요.", "bn": "বানর গাছে ওঠে।", "en": "The monkey climbs the tree." } },
+  { "id": "ani-014", "ko": "양", "pron": "ইয়াং", "bn": "ভেড়া", "en": "sheep", "example": { "ko": "양이 풀밭에 있어요.", "bn": "ভেড়া ঘাসের মাঠে আছে।", "en": "The sheep is in the meadow." } },
+  { "id": "ani-015", "ko": "염소", "pron": "ইয়মসো", "bn": "ছাগল", "en": "goat", "example": { "ko": "염소가 우유를 줘요.", "bn": "ছাগল দুধ দেয়।", "en": "The goat gives milk." } },
+  { "id": "ani-016", "ko": "쥐", "pron": "জুই", "bn": "ইঁদুর", "en": "mouse / rat", "example": { "ko": "쥐가 치즈를 훔쳐요.", "bn": "ইঁদুর পনির চুরি করে।", "en": "The mouse steals cheese." } },
+  { "id": "ani-017", "ko": "뱀", "pron": "বেম", "bn": "সাপ", "en": "snake", "example": { "ko": "뱀이 길어요.", "bn": "সাপ লম্বা।", "en": "The snake is long." } },
+  { "id": "ani-018", "ko": "거북이", "pron": "কোবুগি", "bn": "কচ্ছপ", "en": "turtle", "example": { "ko": "거북이가 느려요.", "bn": "কচ্ছপ ধীর।", "en": "The turtle is slow." } },
+  { "id": "ani-019", "ko": "물고기", "pron": "মুলগোগি", "bn": "মাছ", "en": "fish", "example": { "ko": "물고기가 물속에 살아요.", "bn": "মাছ জলে থাকে।", "en": "The fish lives in water." } },
+  { "id": "ani-020", "ko": "개구리", "pron": "কেগুরি", "bn": "ব্যাঙ", "en": "frog", "example": { "ko": "개구리가 뛰어요.", "bn": "ব্যাঙ লাফায়।", "en": "The frog jumps." } }
+]
