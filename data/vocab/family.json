@@ -1,0 +1,22 @@
+[
+  { "id": "fam-001", "ko": "가족", "pron": "কাজোক", "bn": "পরিবার", "en": "family", "example": { "ko": "우리 가족은 네 명이에요.", "bn": "আমাদের পরিবারে চার জন।", "en": "There are four people in my family." } },
+  { "id": "fam-002", "ko": "아버지", "pron": "আবোজি", "bn": "বাবা (শ্রদ্ধার সাথে)", "en": "father", "example": { "ko": "아버지는 회사에 다니세요.", "bn": "বাবা অফিসে চাকরি করেন।", "en": "My father works at a company." } },
+  { "id": "fam-003", "ko": "아빠", "pron": "আপ্পা", "bn": "বাবা (আদরের ডাক)", "en": "dad", "example": { "ko": "아빠, 사랑해요!", "bn": "বাবা, ভালোবাসি!", "en": "Dad, I love you!" } },
+  { "id": "fam-004", "ko": "어머니", "pron": "অমনি", "bn": "মা (শ্রদ্ধার সাথে)", "en": "mother", "example": { "ko": "어머니는 요리를 잘하세요.", "bn": "মা রান্নায় পাকা।", "en": "My mother cooks well." } },
+  { "id": "fam-005", "ko": "엄마", "pron": "অম্মা", "bn": "মা (আদরের ডাক)", "en": "mom", "example": { "ko": "엄마가 보고 싶어요.", "bn": "মাকে মনে পড়ছে।", "en": "I miss my mom." } },
+  { "id": "fam-006", "ko": "부모님", "pron": "পুমোনিম", "bn": "পিতামাতা", "en": "parents", "example": { "ko": "부모님을 존경해요.", "bn": "পিতামাতাকে সম্মান করি।", "en": "I respect my parents." } },
+  { "id": "fam-007", "ko": "형", "pron": "হিয়ং", "bn": "দাদা (পুরুষের কাছে বড় ভাই)", "en": "older brother (of a male)", "example": { "ko": "형이 도와줬어요.", "bn": "দাদা সাহায্য করেছে।", "en": "My older brother helped me." } },
+  { "id": "fam-008", "ko": "오빠", "pron": "ওপ্পা", "bn": "দাদা (নারীর কাছে বড় ভাই)", "en": "older brother (of a female)", "example": { "ko": "오빠가 있어요.", "bn": "আমার দাদা আছে।", "en": "I have an older brother." } },
+  { "id": "fam-009", "ko": "누나", "pron": "নুনা", "bn": "দিদি (পুরুষের কাছে বড় বোন)", "en": "older sister (of a male)", "example": { "ko": "누나가 예뻐요.", "bn": "দিদি সুন্দর।", "en": "My older sister is pretty." } },
+  { "id": "fam-010", "ko": "언니", "pron": "অন্নি", "bn": "দিদি (নারীর কাছে বড় বোন)", "en": "older sister (of a female)", "example": { "ko": "언니와 쇼핑해요.", "bn": "দিদির সাথে শপিং করি।", "en": "I shop with my older sister." } },
+  { "id": "fam-011", "ko": "동생", "pron": "দংসেং", "bn": "ছোট ভাই/বোন", "en": "younger sibling", "example": { "ko": "동생이 귀여워요.", "bn": "ছোট ভাই/বোন আদুরে।", "en": "My younger sibling is cute." } },
+  { "id": "fam-012", "ko": "할아버지", "pron": "হারাবোজি", "bn": "দাদু", "en": "grandfather", "example": { "ko": "할아버지께서 안경을 쓰세요.", "bn": "দাদু চশমা পরেন।", "en": "My grandfather wears glasses." } },
+  { "id": "fam-013", "ko": "할머니", "pron": "হালমনি", "bn": "দিদা / ঠাকুমা", "en": "grandmother", "example": { "ko": "할머니가 손주를 사랑해요.", "bn": "দিদা নাতি-নাতনিকে ভালোবাসেন।", "en": "Grandma loves her grandchildren." } },
+  { "id": "fam-014", "ko": "아들", "pron": "আদুল", "bn": "ছেলে (সন্তান)", "en": "son", "example": { "ko": "아들이 학생이에요.", "bn": "ছেলে ছাত্র।", "en": "My son is a student." } },
+  { "id": "fam-015", "ko": "딸", "pron": "ত্তাল", "bn": "মেয়ে (সন্তান)", "en": "daughter", "example": { "ko": "딸이 착해요.", "bn": "মেয়ে ভালো মেয়ে।", "en": "My daughter is kind." } },
+  { "id": "fam-016", "ko": "아기", "pron": "আগি", "bn": "শিশু", "en": "baby", "example": { "ko": "아기가 잠들었어요.", "bn": "শিশু ঘুমিয়ে পড়েছে।", "en": "The baby fell asleep." } },
+  { "id": "fam-017", "ko": "삼촌", "pron": "সামচন", "bn": "চাচা / মামা", "en": "uncle", "example": { "ko": "삼촌이 등산을 좋아해요.", "bn": "চাচা ট্রেকিং ভালোবাসেন।", "en": "My uncle likes hiking." } },
+  { "id": "fam-018", "ko": "이모", "pron": "ইমো", "bn": "মাসি / খালা", "en": "aunt (mother's side)", "example": { "ko": "이모가 케이크를 만들었어요.", "bn": "মাসি কেক বানিয়েছেন।", "en": "My aunt made a cake." } },
+  { "id": "fam-019", "ko": "친척", "pron": "ছিনচোক", "bn": "আত্মীয়", "en": "relatives", "example": { "ko": "설날에 친척을 만나요.", "bn": "সোল্লালে আত্মীয়দের সাথে দেখা হয়।", "en": "We meet relatives on Lunar New Year." } },
+  { "id": "fam-020", "ko": "남편", "pron": "নামপিয়ন", "bn": "স্বামী", "en": "husband", "example": { "ko": "남편이 요리를 도와줘요.", "bn": "স্বামী রান্নায় সাহায্য করে।", "en": "My husband helps with cooking." } }
+]
