@@ -1,0 +1,22 @@
+[
+  { "id": "cloth-001", "ko": "옷", "pron": "ওত", "bn": "জামা / পোশাক", "en": "clothes", "example": { "ko": "새 옷을 샀어요.", "bn": "নতুন জামা কিনেছি।", "en": "I bought new clothes." } },
+  { "id": "cloth-002", "ko": "셔츠", "pron": "শওচি", "bn": "শার্ট", "en": "shirt", "example": { "ko": "흰색 셔츠를 입어요.", "bn": "সাদা শার্ট পরি।", "en": "I wear a white shirt." } },
+  { "id": "cloth-003", "ko": "바지", "pron": "পাজি", "bn": "প্যান্ট / ট্রাউজার", "en": "pants / trousers", "example": { "ko": "긴 바지를 좋아해요.", "bn": "লম্বা প্যান্ট ভালোবাসি।", "en": "I like long pants." } },
+  { "id": "cloth-004", "ko": "치마", "pron": "ছিমা", "bn": "স্কার্ট", "en": "skirt", "example": { "ko": "치마가 예뻐요.", "bn": "স্কার্ট সুন্দর।", "en": "The skirt is pretty." } },
+  { "id": "cloth-005", "ko": "원피스", "pron": "ওনপিসু", "bn": "ওয়ান-পিস (গাউন জাতীয়)", "en": "dress (one-piece)", "example": { "ko": "여름에 원피스를 입어요.", "bn": "গরমে ওয়ান-পিস পরি।", "en": "I wear a dress in summer." } },
+  { "id": "cloth-006", "ko": "재킷", "pron": "চেকিত", "bn": "জ্যাকেট", "en": "jacket", "example": { "ko": "겨울에 재킷을 입어요.", "bn": "শীতে জ্যাকেট পরি।", "en": "I wear a jacket in winter." } },
+  { "id": "cloth-007", "ko": "코트", "pron": "খোতু", "bn": "কোট", "en": "coat", "example": { "ko": "두꺼운 코트가 필요해요.", "bn": "মোটা কোট দরকার।", "en": "I need a thick coat." } },
+  { "id": "cloth-008", "ko": "신발", "pron": "শিনবাল", "bn": "জুতো", "en": "shoes", "example": { "ko": "신발을 신으세요.", "bn": "জুতো পরুন।", "en": "Put on your shoes." } },
+  { "id": "cloth-009", "ko": "양말", "pron": "ইয়াংমাল", "bn": "মোজা", "en": "socks", "example": { "ko": "양말을 신었어요.", "bn": "মোজা পরেছি।", "en": "I put on socks." } },
+  { "id": "cloth-010", "ko": "모자", "pron": "মোজা", "bn": "টুপি", "en": "hat / cap", "example": { "ko": "모자를 썼어요.", "bn": "টুপি পরেছি।", "en": "I put on a hat." } },
+  { "id": "cloth-011", "ko": "장갑", "pron": "জাংগাপ", "bn": "দস্তানা", "en": "gloves", "example": { "ko": "장갑을 껴요.", "bn": "দস্তানা পরি।", "en": "I wear gloves." } },
+  { "id": "cloth-012", "ko": "목도리", "pron": "মোকদোরি", "bn": "স্কার্ফ / মাফলার", "en": "scarf", "example": { "ko": "목도리를 둘렀어요.", "bn": "মাফলার জড়িয়েছি।", "en": "I wrapped a scarf around my neck." } },
+  { "id": "cloth-013", "ko": "한복", "pron": "হানবোক", "bn": "হানবোক (কোরিয়ান পোশাক)", "en": "hanbok (Korean traditional dress)", "example": { "ko": "설날에 한복을 입어요.", "bn": "সোল্লালে হানবোক পরি।", "en": "We wear hanbok on Lunar New Year." } },
+  { "id": "cloth-014", "ko": "티셔츠", "pron": "তিশওচি", "bn": "টি-শার্ট", "en": "T-shirt", "example": { "ko": "티셔츠가 편해요.", "bn": "টি-শার্ট আরামদায়ক।", "en": "The T-shirt is comfortable." } },
+  { "id": "cloth-015", "ko": "운동화", "pron": "উনদোংহোয়া", "bn": "স্নিকার / জিম জুতো", "en": "sneakers", "example": { "ko": "운동화를 신고 달려요.", "bn": "স্নিকার পরে দৌড়াই।", "en": "I run wearing sneakers." } },
+  { "id": "cloth-016", "ko": "지갑", "pron": "চিগাপ", "bn": "মানিব্যাগ", "en": "wallet", "example": { "ko": "지갑을 잃어버렸어요.", "bn": "মানিব্যাগ হারিয়ে ফেলেছি।", "en": "I lost my wallet." } },
+  { "id": "cloth-017", "ko": "가방", "pron": "কাবাং", "bn": "ব্যাগ", "en": "bag", "example": { "ko": "가방이 무거워요.", "bn": "ব্যাগ ভারী।", "en": "The bag is heavy." } },
+  { "id": "cloth-018", "ko": "벨트", "pron": "বেলতু", "bn": "বেল্ট", "en": "belt", "example": { "ko": "벨트를 매요.", "bn": "বেল্ট পরি।", "en": "I wear a belt." } },
+  { "id": "cloth-019", "ko": "안경", "pron": "আনগিয়ং", "bn": "চশমা", "en": "glasses", "example": { "ko": "안경을 썼어요.", "bn": "চশমা পরেছি।", "en": "I put on glasses." } },
+  { "id": "cloth-020", "ko": "시계", "pron": "শিগে", "bn": "ঘড়ি", "en": "watch / clock", "example": { "ko": "시계를 차요.", "bn": "ঘড়ি পরি।", "en": "I wear a watch." } }
+]
