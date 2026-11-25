@@ -1,0 +1,22 @@
+[
+  { "id": "body-001", "ko": "머리", "pron": "মরি", "bn": "মাথা", "en": "head", "example": { "ko": "머리가 아파요.", "bn": "আমার মাথা ব্যথা করছে।", "en": "My head hurts." } },
+  { "id": "body-002", "ko": "눈", "pron": "নুন", "bn": "চোখ", "en": "eye", "example": { "ko": "눈이 예뻐요.", "bn": "চোখ সুন্দর।", "en": "The eyes are pretty." } },
+  { "id": "body-003", "ko": "귀", "pron": "কুই", "bn": "কান", "en": "ear", "example": { "ko": "귀가 아파요.", "bn": "আমার কান ব্যথা করছে।", "en": "My ear hurts." } },
+  { "id": "body-004", "ko": "코", "pron": "খো", "bn": "নাক", "en": "nose", "example": { "ko": "코가 빨개요.", "bn": "নাক লাল।", "en": "The nose is red." } },
+  { "id": "body-005", "ko": "입", "pron": "ইপ", "bn": "মুখ", "en": "mouth", "example": { "ko": "입을 열어요.", "bn": "মুখ খুলুন।", "en": "Open your mouth." } },
+  { "id": "body-006", "ko": "이", "pron": "ই", "bn": "দাঁত", "en": "tooth", "example": { "ko": "이를 닦아요.", "bn": "দাঁত মাজি।", "en": "I brush my teeth." } },
+  { "id": "body-007", "ko": "혀", "pron": "হিও", "bn": "জিভ", "en": "tongue", "example": { "ko": "혀를 내밀었어요.", "bn": "জিভ বের করেছি।", "en": "I stuck out my tongue." } },
+  { "id": "body-008", "ko": "얼굴", "pron": "অলগুল", "bn": "মুখমণ্ডল", "en": "face", "example": { "ko": "얼굴을 씻어요.", "bn": "মুখ ধুচ্ছি।", "en": "I wash my face." } },
+  { "id": "body-009", "ko": "머리카락", "pron": "মরিকারাক", "bn": "চুল", "en": "hair", "example": { "ko": "머리카락이 길어요.", "bn": "চুল লম্বা।", "en": "The hair is long." } },
+  { "id": "body-010", "ko": "목", "pron": "মোক", "bn": "গলা", "en": "neck / throat", "example": { "ko": "목이 아파요.", "bn": "গলা ব্যথা করছে।", "en": "My throat hurts." } },
+  { "id": "body-011", "ko": "어깨", "pron": "অখে", "bn": "কাঁধ", "en": "shoulder", "example": { "ko": "어깨가 넓어요.", "bn": "কাঁধ চওড়া।", "en": "The shoulders are broad." } },
+  { "id": "body-012", "ko": "팔", "pron": "পাল", "bn": "হাত (পুরো বাহু)", "en": "arm", "example": { "ko": "팔이 아파요.", "bn": "বাহু ব্যথা করছে।", "en": "My arm hurts." } },
+  { "id": "body-013", "ko": "손", "pron": "সন", "bn": "হাত (কবজি)", "en": "hand", "example": { "ko": "손을 씻어요.", "bn": "হাত ধুচ্ছি।", "en": "I wash my hands." } },
+  { "id": "body-014", "ko": "손가락", "pron": "সনগারাক", "bn": "আঙুল", "en": "finger", "example": { "ko": "손가락이 길어요.", "bn": "আঙুল লম্বা।", "en": "The fingers are long." } },
+  { "id": "body-015", "ko": "가슴", "pron": "কাসুম", "bn": "বুক", "en": "chest", "example": { "ko": "가슴이 아파요.", "bn": "বুক ব্যথা করছে।", "en": "My chest hurts." } },
+  { "id": "body-016", "ko": "배", "pron": "বে", "bn": "পেট", "en": "belly / stomach", "example": { "ko": "배가 고파요.", "bn": "পেট ক্ষুধা লাগছে।", "en": "I am hungry." } },
+  { "id": "body-017", "ko": "등", "pron": "দুং", "bn": "পিঠ", "en": "back", "example": { "ko": "등이 아파요.", "bn": "পিঠ ব্যথা করছে।", "en": "My back hurts." } },
+  { "id": "body-018", "ko": "다리", "pron": "তারি", "bn": "পা (পুরো)", "en": "leg", "example": { "ko": "다리가 길어요.", "bn": "পা লম্বা।", "en": "The legs are long." } },
+  { "id": "body-019", "ko": "무릎", "pron": "মুরুপ", "bn": "হাঁটু", "en": "knee", "example": { "ko": "무릎을 꿇어요.", "bn": "হাঁটু গাড়ি।", "en": "I kneel down." } },
+  { "id": "body-020", "ko": "발", "pron": "পাল", "bn": "পা (পায়ের তলা)", "en": "foot", "example": { "ko": "발이 커요.", "bn": "পা বড়।", "en": "The feet are big." } }
+]
