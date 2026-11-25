@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ভোকাবুলারি — KoreanLearn</title>
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0f1115">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;600;700&family=Noto+Sans+KR:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main class="container">
+    <div class="font-controls" style="float:right"></div>
+    <h1 class="page-title">📖 ভোকাবুলারি</h1>
+    <p class="page-sub">ক্যাটাগরি বাছুন, প্রতিটি শব্দে ট্যাপ করে শুনুন ও শিখুন। <span id="vocab-count" class="muted"></span></p>
+    <div id="voice-notice"></div>
+
+    <div class="speed-controls"></div>
+
+    <div class="chips" id="vocab-chips"></div>
+
+    <div class="chips">
+      <button class="btn" id="toggle-learned">🙈 শেখা শব্দ লুকাও</button>
+      <span class="font-controls"></span>
+    </div>
+    <div class="chips" id="lang-filter"></div>
+
+    <div id="vocab-list"><p class="muted center">শব্দ লোড হচ্ছে…</p></div>
+    <div class="center mt-16 mb-16">
+      <button class="btn btn-accent hidden" id="load-more">আরও দেখাও</button>
+    </div>
+  </main>
+
+  <script src="data/categories.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/speech.js"></script>
+  <script src="js/vocab.js"></script>
+  <script>
+    // support ?cat=xyz deep link from home
+    document.addEventListener('DOMContentLoaded', () => {
+      const cat = new URLSearchParams(location.search).get('cat');
+      if (cat && CATEGORIES.some(c => c.id === cat)) {
+        vocabState.cat = cat;
+        renderVocabChips();
+        renderWords();
+      }
+    });
+  </script>
+</body>
+</html>
