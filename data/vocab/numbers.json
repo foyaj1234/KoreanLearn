@@ -1,0 +1,22 @@
+[
+  { "id": "num-001", "ko": "하나", "pron": "হানা", "bn": "এক", "en": "one (native)", "example": { "ko": "사과가 하나 있어요.", "bn": "একটা আপেল আছে।", "en": "There is one apple." } },
+  { "id": "num-002", "ko": "둘", "pron": "দুল", "bn": "দুই", "en": "two (native)", "example": { "ko": "고양이가 두 마리 있어요.", "bn": "দুইটা বিড়াল আছে।", "en": "There are two cats." } },
+  { "id": "num-003", "ko": "셋", "pron": "সেত", "bn": "তিন", "en": "three (native)", "example": { "ko": "책이 세 권이에요.", "bn": "তিনটা বই।", "en": "There are three books." } },
+  { "id": "num-004", "ko": "넷", "pron": "নেত", "bn": "চার", "en": "four (native)", "example": { "ko": "우리는 네 명이에요.", "bn": "আমরা চার জন।", "en": "We are four people." } },
+  { "id": "num-005", "ko": "다섯", "pron": "তাসওস", "bn": "পাঁচ", "en": "five (native)", "example": { "ko": "다섯 시에 만나요.", "bn": "পাঁচটায় দেখা হবে।", "en": "Let's meet at five o'clock." } },
+  { "id": "num-006", "ko": "여섯", "pron": "ইয়োসওস", "bn": "ছয়", "en": "six (native)", "example": { "ko": "여섯 살이에요.", "bn": "ছয় বছর বয়স।", "en": "He/She is six years old." } },
+  { "id": "num-007", "ko": "일곱", "pron": "ইলগোপ", "bn": "সাত", "en": "seven (native)", "example": { "ko": "일곱 개 필요해요.", "bn": "সাতটা দরকার।", "en": "I need seven (things)." } },
+  { "id": "num-008", "ko": "여덟", "pron": "ইয়োদল", "bn": "আট", "en": "eight (native)", "example": { "ko": "여덟 시에 일어나요.", "bn": "আটটায় উঠি।", "en": "I get up at eight." } },
+  { "id": "num-009", "ko": "아홉", "pron": "আহোপ", "bn": "নয়", "en": "nine (native)", "example": { "ko": "아홉 시 반이에요.", "bn": "নয়টা ত্রিশ।", "en": "It is nine thirty." } },
+  { "id": "num-010", "ko": "열", "pron": "ইয়ল", "bn": "দশ", "en": "ten (native)", "example": { "ko": "열 살이에요.", "bn": "দশ বছর বয়স।", "en": "He/She is ten years old." } },
+  { "id": "num-011", "ko": "일", "pron": "ইল", "bn": "এক (সিনো-কোরিয়ান)", "en": "one (Sino)", "example": { "ko": "일월은 1월이에요.", "bn": "১ নম্বর মাস জানুয়ারি।", "en": "The first month is January." } },
+  { "id": "num-012", "ko": "이", "pron": "ই", "bn": "দুই (সিনো-কোরিয়ান)", "en": "two (Sino)", "example": { "ko": "이 월은 2월이에요.", "bn": "২ নম্বর মাস ফেব্রুয়ারি।", "en": "The second month is February." } },
+  { "id": "num-013", "ko": "삼", "pron": "সাম", "bn": "তিন (সিনো-কোরিয়ান)", "en": "three (Sino)", "example": { "ko": "삼 분만 기다려 주세요.", "bn": "তিন মিনিট অপেক্ষা করুন।", "en": "Please wait three minutes." } },
+  { "id": "num-014", "ko": "사", "pron": "সা", "bn": "চার (সিনো-কোরিয়ান)", "en": "four (Sino)", "example": { "ko": "사 년이 걸렸어요.", "bn": "চার বছর লেগেছে।", "en": "It took four years." } },
+  { "id": "num-015", "ko": "오", "pron": "ও", "bn": "পাঁচ (সিনো-কোরিয়ান)", "en": "five (Sino)", "example": { "ko": "오 시에 끝나요.", "bn": "পাঁচটায় শেষ হয়।", "en": "It ends at five." } },
+  { "id": "num-016", "ko": "육", "pron": "ইউক", "bn": "ছয় (সিনো-কোরিয়ান)", "en": "six (Sino)", "example": { "ko": "육 월을 좋아해요.", "bn": "জুন মাস ভালো লাগে।", "en": "I like the month of June." } },
+  { "id": "num-017", "ko": "칠", "pron": "ছিল", "bn": "সাত (সিনো-কোরিয়ান)", "en": "seven (Sino)", "example": { "ko": "칠 일 동안 쉬었어요.", "bn": "সাত দিন বিশ্রাম নিয়েছি।", "en": "I rested for seven days." } },
+  { "id": "num-018", "ko": "팔", "pron": "পাল", "bn": "আট (সিনো-কোরিয়ান)", "en": "eight (Sino)", "example": { "ko": "팔 시에 학교에 가요.", "bn": "আটটায় স্কুলে যাই।", "en": "I go to school at eight." } },
+  { "id": "num-019", "ko": "구", "pron": "কু", "bn": "নয় (সিনো-কোরিয়ান)", "en": "nine (Sino)", "example": { "ko": "구 시에 자요.", "bn": "নয়টায় ঘুমাই।", "en": "I sleep at nine." } },
+  { "id": "num-020", "ko": "십", "pron": "শিপ", "bn": "দশ (সিনো-কোরিয়ান)", "en": "ten (Sino)", "example": { "ko": "십 분 걸려요.", "bn": "দশ মিনিট লাগে।", "en": "It takes ten minutes." } }
+]
