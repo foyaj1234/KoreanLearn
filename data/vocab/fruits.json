@@ -1,0 +1,22 @@
+[
+  { "id": "fruits-001", "ko": "사과", "pron": "সাগওয়া", "bn": "আপেল", "en": "apple", "example": { "ko": "사과가 맛있어요.", "bn": "আপেল সুস্বাদু।", "en": "The apple is tasty." } },
+  { "id": "fruits-002", "ko": "바나나", "pron": "বানানা", "bn": "কলা", "en": "banana", "example": { "ko": "바나나를 먹어요.", "bn": "কলা খাই।", "en": "I eat a banana." } },
+  { "id": "fruits-003", "ko": "포도", "pron": "পোদো", "bn": "আঙুর", "en": "grape", "example": { "ko": "포도가 달아요.", "bn": "আঙুর মিষ্টি।", "en": "Grapes are sweet." } },
+  { "id": "fruits-004", "ko": "수박", "pron": "সুবাক", "bn": "তরমুজ", "en": "watermelon", "example": { "ko": "수박이 시원해요.", "bn": "তরমুজ ঠান্ডা/শীতল।", "en": "The watermelon is refreshing." } },
+  { "id": "fruits-005", "ko": "딸기", "pron": "তালগি", "bn": "স্ট্রবেরি", "en": "strawberry", "example": { "ko": "딸기주스를 마셔요.", "bn": "স্ট্রবেরির জুস খাই।", "en": "I drink strawberry juice." } },
+  { "id": "fruits-006", "ko": "오렌지", "pron": "অরেনজি", "bn": "কমলা (ফল)", "en": "orange", "example": { "ko": "오렌지가 좋아요.", "bn": "কমলা ভালো।", "en": "I like oranges." } },
+  { "id": "fruits-007", "ko": "귤", "pron": "কিউল", "bn": "কিমশি লেবু / ম্যান্ডারিন", "en": "mandarin", "example": { "ko": "귤을 까 먹어요.", "bn": "খোসা ছাড়িয়ে খাই।", "en": "I peel and eat a mandarin." } },
+  { "id": "fruits-008", "ko": "복숭아", "pron": "পকসুংআ", "bn": "নাশপাতি (পিচ)", "en": "peach", "example": { "ko": "복숭아가 향기로워요.", "bn": "পিচ সুগন্ধি।", "en": "The peach smells good." } },
+  { "id": "fruits-009", "ko": "배", "pron": "বে", "bn": "নাশপাতি (পেয়ার)", "en": "pear", "example": { "ko": "배가 달고 맛있어요.", "bn": "পেয়ার মিষ্টি ও সুস্বাদু।", "en": "The pear is sweet and tasty." } },
+  { "id": "fruits-010", "ko": "키위", "pron": "খিউই", "bn": "কিউই", "en": "kiwi", "example": { "ko": "키위가 새콤해요.", "bn": "কিউই টক।", "en": "The kiwi is sour." } },
+  { "id": "fruits-011", "ko": "파인애플", "pron": "পাইনএপিল", "bn": "আনারস", "en": "pineapple", "example": { "ko": "파인애플이 달아요.", "bn": "আনারস মিষ্টি।", "en": "The pineapple is sweet." } },
+  { "id": "fruits-012", "ko": "망고", "pron": "মাঙ্গো", "bn": "আম", "en": "mango", "example": { "ko": "망고가 제일 좋아요.", "bn": "আম সবচেয়ে ভালো লাগে।", "en": "Mango is my favorite." } },
+  { "id": "fruits-013", "ko": "자두", "pron": "জাদু", "bn": "বরই", "en": "plum", "example": { "ko": "자두가 붉어요.", "bn": "বরই লাল।", "en": "The plum is red." } },
+  { "id": "fruits-014", "ko": "감", "pron": "কাম", "bn": "খেজুরের মতো ফল (persimmon)", "en": "persimmon", "example": { "ko": "가을에 감이 읽어요.", "bn": "শরতে পারসিমন পাকে।", "en": "Persimmons ripen in autumn." } },
+  { "id": "fruits-015", "ko": "참외", "pron": "চামওয়ে", "bn": "কোরিয়ান তরমুজ (oriental melon)", "en": "oriental melon", "example": { "ko": "참외가 시원해요.", "bn": "চামওয়ে শীতল।", "en": "The oriental melon is refreshing." } },
+  { "id": "fruits-016", "ko": "체리", "pron": "চেরি", "bn": "চেরি", "en": "cherry", "example": { "ko": "체리가 예뻐요.", "bn": "চেরি সুন্দর।", "en": "The cherry is pretty." } },
+  { "id": "fruits-017", "ko": "레몬", "pron": "রেমন", "bn": "লেবু (লেমন)", "en": "lemon", "example": { "ko": "레몬이 매우 시어요.", "bn": "লেবু খুব টক।", "en": "The lemon is very sour." } },
+  { "id": "fruits-018", "ko": "토마토", "pron": "তোমাতো", "bn": "টমেটো", "en": "tomato", "example": { "ko": "토마토를 샐러드에 넣어요.", "bn": "সালাদে টমেটো দিই।", "en": "I put tomatoes in the salad." } },
+  { "id": "fruits-019", "ko": "포멜로", "pron": "পোমেলো", "bn": "জাম্বুরা (পমেলো)", "en": "pomelo", "example": { "ko": "포멜로가 크고 달아요.", "bn": "জাম্বুরা বড় ও মিষ্টি।", "en": "The pomelo is big and sweet." } },
+  { "id": "fruits-020", "ko": "두리안", "pron": "তুরিআন", "bn": "দুরিয়ান", "en": "durian", "example": { "ko": "두리안 냄새가 강해요.", "bn": "দুরিয়ানের গন্ধ তীব্র।", "en": "The durian smells strong." } }
+]
