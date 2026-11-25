@@ -1,0 +1,22 @@
+[
+  { "id": "job-001", "ko": "학생", "pron": "হাকসেং", "bn": "ছাত্র/ছাত্রী", "en": "student", "example": { "ko": "저는 학생이에요.", "bn": "আমি ছাত্র।", "en": "I am a student." } },
+  { "id": "job-002", "ko": "선생님", "pron": "সনসেংনিম", "bn": "শিক্ষক", "en": "teacher", "example": { "ko": "선생님은 친절해요.", "bn": "শিক্ষক সদয়।", "en": "The teacher is kind." } },
+  { "id": "job-003", "ko": "의사", "pron": "উইসা", "bn": "ডাক্তার", "en": "doctor", "example": { "ko": "의사에게 갔어요.", "bn": "ডাক্তারের কাছে গেছি।", "en": "I went to the doctor." } },
+  { "id": "job-004", "ko": "간호사", "pron": "কানহোসা", "bn": "নার্স", "en": "nurse", "example": { "ko": "간호사가 병원에 있어요.", "bn": "নার্স হাসপাতালে আছে।", "en": "The nurse is at the hospital." } },
+  { "id": "job-005", "ko": "경찰관", "pron": "কিয়ংছালগোয়ান", "bn": "পুলিশ", "en": "police officer", "example": { "ko": "경찰관이 도와줬어요.", "bn": "পুলিশ সাহায্য করেছে।", "en": "A police officer helped me." } },
+  { "id": "job-006", "ko": "소방관", "pron": "সোবাংগোয়ান", "bn": "ফায়ারফাইটার", "en": "firefighter", "example": { "ko": "소방관이 불을 껐어요.", "bn": "ফায়ারফাইটার আগুন নেভালে।", "en": "The firefighter put out the fire." } },
+  { "id": "job-007", "ko": "회사원", "pron": "হোয়েসাওয়ন", "bn": "অফিস কর্মী", "en": "office worker", "example": { "ko": "회사원으로 일해요.", "bn": "অফিস কর্মী হিসেবে কাজ করি।", "en": "I work as an office worker." } },
+  { "id": "job-008", "ko": "요리사", "pron": "ইওরিসা", "bn": "রাঁধুনি / শেফ", "en": "chef / cook", "example": { "ko": "요리사가 맛있는 음식을 만들어요.", "bn": "শেফ সুস্বাদু খাবার বানায়।", "en": "The chef makes delicious food." } },
+  { "id": "job-009", "ko": "가수", "pron": "কাসু", "bn": "গায়ক / গায়িকা", "en": "singer", "example": { "ko": "가수가 노래를 잘해요.", "bn": "গায়ক ভালো গান গায়।", "en": "The singer sings well." } },
+  { "id": "job-010", "ko": "배우", "pron": "বেউ", "bn": "অভিনেতা / অভিনেত্রী", "en": "actor / actress", "example": { "ko": "그 배우가 유명해요.", "bn": "ওই অভিনেতা বিখ্যাত।", "en": "That actor is famous." } },
+  { "id": "job-011", "ko": "운동선수", "pron": "উনদংসনসু", "bn": "খেলোয়াড়", "en": "athlete", "example": { "ko": "운동선수가 달려요.", "bn": "খেলোয়াড় দৌড়ায়।", "en": "The athlete runs." } },
+  { "id": "job-012", "ko": "엔지니어", "pron": "এনজিনিয়ো", "bn": "ইঞ্জিনিয়ার", "en": "engineer", "example": { "ko": "엔지니어가 기계를 고쳤어요.", "bn": "ইঞ্জিনিয়ার যন্ত্র ঠিক করেছে।", "en": "The engineer fixed the machine." } },
+  { "id": "job-013", "ko": "변호사", "pron": "বিয়নহোসা", "bn": "আইনজীবী", "en": "lawyer", "example": { "ko": "변호사가 조언을 했어요.", "bn": "আইনজীবী পরামর্শ দিয়েছে।", "en": "The lawyer gave advice." } },
+  { "id": "job-014", "ko": "기자", "pron": "কিজা", "bn": "সাংবাদিক", "en": "journalist / reporter", "example": { "ko": "기자가 질문했어요.", "bn": "সাংবাদিক প্রশ্ন করেছে।", "en": "The reporter asked questions." } },
+  { "id": "job-015", "ko": "화가", "pron": "হোয়াগা", "bn": "চিত্রশিল্পী", "en": "painter / artist", "example": { "ko": "화가가 그림을 그려요.", "bn": "শিল্পী ছবি আঁকে।", "en": "The painter paints." } },
+  { "id": "job-016", "ko": "운전사", "pron": "উনজনসা", "bn": "ড্রাইভার", "en": "driver", "example": { "ko": "운전사가 버스를 몰아요.", "bn": "ড্রাইভার বাস চালায়।", "en": "The driver drives the bus." } },
+  { "id": "job-017", "ko": "판매원", "pron": "পানমেওয়ন", "bn": "দোকানদার / সেলসম্যান", "en": "salesperson", "example": { "ko": "판매원이 친절해요.", "bn": "দোকানদার সদয়।", "en": "The salesperson is kind." } },
+  { "id": "job-018", "ko": "농부", "pron": "নোংবু", "bn": "কৃষক", "en": "farmer", "example": { "ko": "농부가 밭에서 일해요.", "bn": "কৃষক জমিতে কাজ করে।", "en": "The farmer works in the field." } },
+  { "id": "job-019", "ko": "과학자", "pron": "কোয়াহাকজা", "bn": "বিজ্ঞানী", "en": "scientist", "example": { "ko": "과학자가 실험을 했어요.", "bn": "বিজ্ঞানী পরীক্ষা করেছে।", "en": "The scientist did an experiment." } },
+  { "id": "job-020", "ko": "요식업자", "pron": "ইওশিকওপজা", "bn": "রেস্তোরাঁর মালিক", "en": "restaurant owner", "example": { "ko": "요식업자가 식당을 운영해요.", "bn": "রেস্তোরাঁর মালিক খাবারের দোকান চালায়।", "en": "The restaurant owner runs a diner." } }
+]
