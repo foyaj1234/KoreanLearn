@@ -1,0 +1,22 @@
+[
+  { "id": "color-001", "ko": "빨간색", "pron": "পালকানসেক", "bn": "লাল রং", "en": "red", "example": { "ko": "빨간색 사과를 샀어요.", "bn": "লাল আপেল কিনেছি।", "en": "I bought a red apple." } },
+  { "id": "color-002", "ko": "파란색", "pron": "পারানসেক", "bn": "নীল রং", "en": "blue", "example": { "ko": "파란색 하늘이 예뻐요.", "bn": "নীল আকাশ সুন্দর।", "en": "The blue sky is pretty." } },
+  { "id": "color-003", "ko": "노란색", "pron": "নোরানসেক", "bn": "হলুদ রং", "en": "yellow", "example": { "ko": "노란색 병아리가 있어요.", "bn": "হলুদ মুরগির ছানা আছে।", "en": "There is a yellow chick." } },
+  { "id": "color-004", "ko": "초록색", "pron": "চরোকসেক", "bn": "সবুজ রং", "en": "green", "example": { "ko": "초록색 잔디가 부드러워요.", "bn": "সবুজ ঘাস নরম।", "en": "The green grass is soft." } },
+  { "id": "color-005", "ko": "검은색", "pron": "কোমুনসেক", "bn": "কালো রং", "en": "black", "example": { "ko": "검은색 고양이를 봤어요.", "bn": "কালো বিড়াল দেখেছি।", "en": "I saw a black cat." } },
+  { "id": "color-006", "ko": "흰색", "pron": "হিনসেক", "bn": "সাদা রং", "en": "white", "example": { "ko": "흰색 셔츠를 입었어요.", "bn": "সাদা শার্ট পরেছি।", "en": "I wore a white shirt." } },
+  { "id": "color-007", "ko": "주황색", "pron": "জুহাংসেক", "bn": "কমলা রং", "en": "orange color", "example": { "ko": "주황색 귤을 먹어요.", "bn": "কমলা রঙের কিমশি লেবু খাই।", "en": "I eat an orange mandarin." } },
+  { "id": "color-008", "ko": "보라색", "pron": "বোরাসেক", "bn": "বেগুনি রং", "en": "purple", "example": { "ko": "보라색 포도가 달아요.", "bn": "বেগুনি আঙুর মিষ্টি।", "en": "The purple grapes are sweet." } },
+  { "id": "color-009", "ko": "분홍색", "pron": "পুনহংসেক", "bn": "গোলাপি রং", "en": "pink", "example": { "ko": "분홍색 꽃이 피었어요.", "bn": "গোলাপি ফুল ফুটেছে।", "en": "The pink flowers bloomed." } },
+  { "id": "color-010", "ko": "갈색", "pron": "কালসেক", "bn": "বাদামি রং", "en": "brown", "example": { "ko": "갈색 곰을 좋아해요.", "bn": "বাদামি ভালুক ভালোবাসি।", "en": "I like brown bears." } },
+  { "id": "color-011", "ko": "회색", "pron": "হোয়েসেক", "bn": "ধূসর রং", "en": "gray", "example": { "ko": "회색 구름이 많아요.", "bn": "ধূসর মেঘ অনেক।", "en": "There are many gray clouds." } },
+  { "id": "color-012", "ko": "금색", "pron": "কুমসেক", "bn": "সোনালি রং", "en": "gold color", "example": { "ko": "금색 반지가 반짝여요.", "bn": "সোনালি আংটি চকচক করে।", "en": "The gold ring sparkles." } },
+  { "id": "color-013", "ko": "은색", "pron": "উনসেক", "bn": "রুপালি রং", "en": "silver color", "example": { "ko": "은색 숟가락을 사용해요.", "bn": "রুপালি চামচ ব্যবহার করি।", "en": "I use a silver spoon." } },
+  { "id": "color-014", "ko": "하늘색", "pron": "হানুলসেক", "bn": "আকাশি রং", "en": "sky blue", "example": { "ko": "하늘색 머그컵을 마셔요.", "bn": "আকাশি মগ ভালো লাগে।", "en": "I like the sky-blue mug." } },
+  { "id": "color-015", "ko": "연두색", "pron": "ইয়নদুসেক", "bn": "হালকা সবুজ", "en": "light green", "example": { "ko": "연두색 잎이 예뻐요.", "bn": "হালকা সবুজ পাতা সুন্দর।", "en": "The light green leaves are pretty." } },
+  { "id": "color-016", "ko": "김장색", "pron": "কিমজাংসেক", "bn": "হালকা কমলা", "en": "light orange", "example": { "ko": "김장색 셔츠를 입었어요.", "bn": "হালকা কমলা শার্ট পরেছি।", "en": "I wore a light orange shirt." } },
+  { "id": "color-017", "ko": "어두운색", "pron": "অদুনসেক", "bn": "গাঢ় রং", "en": "dark color", "example": { "ko": "어두운색 방이 무서워요.", "bn": "গাঢ় রঙের ঘর ভয় লাগে।", "en": "The dark room is scary." } },
+  { "id": "color-018", "ko": "밝은색", "pron": "বালকুনসেক", "bn": "উজ্জ্বল রং", "en": "bright color", "example": { "ko": "밝은색 옷을 좋아해요.", "bn": "উজ্জ্বল রঙের জামা ভালোবাসি।", "en": "I like bright-colored clothes." } },
+  { "id": "color-019", "ko": "무지개", "pron": "মুজিগে", "bn": "রংধনু", "en": "rainbow", "example": { "ko": "비 온 후에 무지개가 떠요.", "bn": "বৃষ্টির পরে রংধনু ওঠে।", "en": "A rainbow appears after the rain." } },
+  { "id": "color-020", "ko": "깨끗하다", "pron": "ক্কেকুতাদা", "bn": "পরিষ্কার (রং-এর)", "en": "clean / clear (of color)", "example": { "ko": "색이 깨끗해요.", "bn": "রংটা পরিষ্কার।", "en": "The color is clean and clear." } }
+]
