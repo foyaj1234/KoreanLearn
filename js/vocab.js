@@ -106,10 +106,10 @@ function bindWordCardActions(root) {
 async function renderWords() {
   const host = document.getElementById('vocab-list');
   if (!host) return;
-  const words = await loadCategoryWords(vocabState.cat);
+  let words = await loadCategoryWords(vocabState.cat);
   if (!vocabState.showLearned) {
     const learned = Progress.learned();
-    filtered = words.filter(w => !learned.has(w.id));
+    words = words.filter(w => !learned.has(w.id));
   }
   const visible = words.slice(0, vocabState.shownCount);
   host.innerHTML = visible.map(wordCardHtml).join('');
@@ -126,7 +126,7 @@ async function renderWords() {
     }
   }
   const count = document.getElementById('vocab-count');
-  if (count) count.textContent = `${words.length}টি শব্দ`;
+  if (count) count.textContent = `(${words.length}টি শব্দ)`;
 }
 
 document.addEventListener('DOMContentLoaded', () => {
