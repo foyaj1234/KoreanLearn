@@ -1,0 +1,22 @@
+[
+  { "id": "bird-001", "ko": "새", "pron": "সে", "bn": "পাখি (সাধারণ)", "en": "bird", "example": { "ko": "새가 노래해요.", "bn": "পাখি গান করে।", "en": "The bird sings." } },
+  { "id": "bird-002", "ko": "까치", "pron": "খাজি", "bn": "দাঁড়কাক (কালি ম্যাগপাই)", "en": "magpie", "example": { "ko": "까치가 아침에 울어요.", "bn": "ম্যাগপাই সকালে ডাকে।", "en": "The magpie calls in the morning." } },
+  { "id": "bird-003", "ko": "까마귀", "pron": "খামাগুই", "bn": "কাক", "en": "crow", "example": { "ko": "까마귀가 검어요.", "bn": "কাক কালো।", "en": "The crow is black." } },
+  { "id": "bird-004", "ko": "비둘기", "pron": "পিদুলগি", "bn": "ঘুঘু / পায়রা", "en": "pigeon / dove", "example": { "ko": "비둘기가 광장에 있어요.", "bn": "পায়রা চত্বরে আছে।", "en": "The pigeons are in the square." } },
+  { "id": "bird-005", "ko": "참새", "pron": "চামসে", "bn": "চড়ুই পাখি", "en": "sparrow", "example": { "ko": "참새가 작고 귀여워요.", "bn": "চড়ুই পাখি ছোট ও আদুরে।", "en": "The sparrow is small and cute." } },
+  { "id": "bird-006", "ko": "오리", "pron": "ওরি", "bn": "হাঁস", "en": "duck", "example": { "ko": "오리가 연못에 떠요.", "bn": "হাঁস পুকুরে ভাসে।", "en": "The duck floats on the pond." } },
+  { "id": "bird-007", "ko": "거위", "pron": "কোই", "bn": "রাজহাঁস", "en": "goose", "example": { "ko": "거위가 크고 시끄러워요.", "bn": "রাজহাঁস বড় ও কোলাহল করে।", "en": "The goose is big and noisy." } },
+  { "id": "bird-008", "ko": "닭", "pron": "তাক", "bn": "মুরগি", "en": "chicken", "example": { "ko": "닭이 알을 낳아요.", "bn": "মুরগি ডিম পাড়ে।", "en": "The chicken lays eggs." } },
+  { "id": "bird-009", "ko": "학", "pron": "হাক", "bn": "ক্রেন পাখি", "en": "crane", "example": { "ko": "학이 우아해요.", "bn": "ক্রেন পাখি মার্জিত।", "en": "The crane is graceful." } },
+  { "id": "bird-010", "ko": "독수리", "pron": "দোকসুরি", "bn": "ঈগল", "en": "eagle", "example": { "ko": "독수리가 높이 날아요.", "bn": "ঈগল উঁচুতে ওড়ে।", "en": "The eagle flies high." } },
+  { "id": "bird-011", "ko": "올빼미", "pron": "অলবেমি", "bn": "পেঁচা", "en": "owl", "example": { "ko": "올빼미가 밤에 활동해요.", "bn": "পেঁচা রাতে সক্রিয় থাকে।", "en": "The owl is active at night." } },
+  { "id": "bird-012", "ko": "제비", "pron": "চেবি", "bn": "দোয়েল জাতীয় (সোয়ালো)", "en": "swallow", "example": { "ko": "제비가 날아다녀요.", "bn": "সোয়ালো উড়ে বেড়ায়।", "en": "The swallow flies around." } },
+  { "id": "bird-013", "ko": "앵무새", "pron": "অংমুসে", "bn": "টিয়া পাখি", "en": "parrot", "example": { "ko": "앵무새가 말을 배워요.", "bn": "টিয়া কথা শেখে।", "en": "The parrot learns to talk." } },
+  { "id": "bird-014", "ko": "갈매기", "pron": "কালমেগি", "bn": "গাংচিল", "en": "seagull", "example": { "ko": "갈매기가 바다에 많아요.", "bn": "সমুদ্রে গাংচিল অনেক।", "en": "There are many seagulls at the sea." } },
+  { "id": "bird-015", "ko": "공작", "pron": "কংজাক", "bn": "ময়ূর", "en": "peacock", "example": { "ko": "공작이 깃을 펴요.", "bn": "ময়ূর পেখম খোলে।", "en": "The peacock spreads its feathers." } },
+  { "id": "bird-016", "ko": "백조", "pron": "বেকজো", "bn": "হাস (সোয়ান)", "en": "swan", "example": { "ko": "백조가 흰색이에요.", "bn": "সোয়ান সাদা।", "en": "The swan is white." } },
+  { "id": "bird-017", "ko": "매", "pron": "মে", "bn": "বাজপাখি", "en": "hawk / falcon", "example": { "ko": "매가 빨라요.", "bn": "বাজপাখি দ্রুত।", "en": "The falcon is fast." } },
+  { "id": "bird-018", "ko": "병아리", "pron": "বিয়াংআরি", "bn": "মুরগির ছানা", "en": "chick", "example": { "ko": "병아리가 노랗고 귀여워요.", "bn": "মুরগির ছানা হলুদ ও আদুরে।", "en": "The chick is yellow and cute." } },
+  { "id": "bird-019", "ko": "타조", "pron": "তাজো", "bn": "উটপাখি", "en": "ostrich", "example": { "ko": "타조가 빨리 달려요.", "bn": "উটপাখি দ্রুত দৌড়ায়।", "en": "The ostrich runs fast." } },
+  { "id": "bird-020", "ko": "펭귄", "pron": "পেংগুইন", "bn": "পেঙ্গুইন", "en": "penguin", "example": { "ko": "펭귄이 추위를 좋아해요.", "bn": "পেঙ্গুইন ঠান্ডা পছন্দ করে।", "en": "Penguins like the cold." } }
+]
