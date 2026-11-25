@@ -1,0 +1,22 @@
+[
+  { "id": "home-001", "ko": "집", "pron": "জিপ", "bn": "বাড়ি / ঘর", "en": "house / home", "example": { "ko": "우리 집에 오세요.", "bn": "আমাদের বাড়িতে আসুন।", "en": "Please come to our house." } },
+  { "id": "home-002", "ko": "방", "pron": "বাং", "bn": "কক্ষ / ঘর", "en": "room", "example": { "ko": "방이 깨끗해요.", "bn": "ঘর পরিষ্কার।", "en": "The room is clean." } },
+  { "id": "home-003", "ko": "부엌", "pron": "পুঅক", "bn": "রান্নাঘর", "en": "kitchen", "example": { "ko": "부엌에서 요리해요.", "bn": "রান্নাঘরে রাঁধি।", "en": "I cook in the kitchen." } },
+  { "id": "home-004", "ko": "화장실", "pron": "হোয়াজাংশিল", "bn": "বাথরুম", "en": "bathroom / restroom", "example": { "ko": "화장실이 어디예요?", "bn": "বাথরুম কোথায়?", "en": "Where is the bathroom?" } },
+  { "id": "home-005", "ko": "침대", "pron": "ছিমদে", "bn": "খাট / বিছানা", "en": "bed", "example": { "ko": "침대에서 자요.", "bn": "খাটে ঘুমাই।", "en": "I sleep on the bed." } },
+  { "id": "home-006", "ko": "책상", "pron": "চেকসাং", "bn": "পড়ার টেবিল", "en": "desk", "example": { "ko": "책상에 앉아 공부해요.", "bn": "টেবিলে বসে পড়ি।", "en": "I sit at the desk and study." } },
+  { "id": "home-007", "ko": "의자", "pron": "উইজা", "bn": "চেয়ার", "en": "chair", "example": { "ko": "의자에 앉으세요.", "bn": "চেয়ারে বসুন।", "en": "Please sit on the chair." } },
+  { "id": "home-008", "ko": "창문", "pron": "ছাংমুন", "bn": "জানালা", "en": "window", "example": { "ko": "창문을 열었어요.", "bn": "জানালা খুলেছি।", "en": "I opened the window." } },
+  { "id": "home-009", "ko": "문", "pron": "মুন", "bn": "দরজা", "en": "door", "example": { "ko": "문을 닫으세요.", "bn": "দরজা বন্ধ করুন।", "en": "Please close the door." } },
+  { "id": "home-010", "ko": "냉장고", "pron": "নেংজাংগো", "bn": "ফ্রিজ", "en": "refrigerator", "example": { "ko": "냉장고에 우유가 있어요.", "bn": "ফ্রিজে দুধ আছে।", "en": "There is milk in the fridge." } },
+  { "id": "home-011", "ko": "텔레비전", "pron": "তেলেবিজন", "bn": "টেলিভিশন", "en": "television / TV", "example": { "ko": "텔레비전을 봐요.", "bn": "টিভি দেখি।", "en": "I watch TV." } },
+  { "id": "home-012", "ko": "컴퓨터", "pron": "খমপিউতো", "bn": "কম্পিউটার", "en": "computer", "example": { "ko": "컴퓨터로 작업해요.", "bn": "কম্পিউটারে কাজ করি।", "en": "I work on the computer." } },
+  { "id": "home-013", "ko": "전화", "pron": "জোনওয়া", "bn": "ফোন / টেলিফোন", "en": "phone / telephone", "example": { "ko": "전화를 받았어요.", "bn": "ফোন ধরেছি।", "en": "I answered the phone." } },
+  { "id": "home-014", "ko": "시계", "pron": "শিগে", "bn": "ঘড়ি", "en": "clock / watch", "example": { "ko": "벽시계가 있어요.", "bn": "দেয়াল ঘড়ি আছে।", "en": "There is a wall clock." } },
+  { "id": "home-015", "ko": "소파", "pron": "সোপা", "bn": "সোফা", "en": "sofa", "example": { "ko": "소파에 앉아 쉬어요.", "bn": "সোফায় বসে বিশ্রাম নিই।", "en": "I sit on the sofa and rest." } },
+  { "id": "home-016", "ko": "거울", "pron": "কওউল", "bn": "আয়না", "en": "mirror", "example": { "ko": "거울을 봤어요.", "bn": "আয়নায় তাকিয়েছি।", "en": "I looked in the mirror." } },
+  { "id": "home-017", "ko": "옷장", "pron": "ওতজাং", "bn": "আলমারি", "en": "wardrobe / closet", "example": { "ko": "옷장에 옷을 걸었어요.", "bn": "আলমারিতে জামা রেখেছি।", "en": "I hung clothes in the wardrobe." } },
+  { "id": "home-018", "ko": "세탁기", "pron": "সেতাকগি", "bn": "ওয়াশিং মেশিন", "en": "washing machine", "example": { "ko": "세탁기로 빨래해요.", "bn": "ওয়াশিং মেশিনে কাপড় ধুই।", "en": "I wash clothes with the machine." } },
+  { "id": "home-019", "ko": "식탁", "pron": "শিকতাক", "bn": "খাবার টেবিল", "en": "dining table", "example": { "ko": "식탁에서 저녁을 먹어요.", "bn": "খাবা�র টেবিলে রাতের খাবার খাই।", "en": "We eat dinner at the dining table." } },
+  { "id": "home-020", "ko": "계단", "pron": "কিয়েদান", "bn": "সিঁড়ি", "en": "stairs", "example": { "ko": "계단을 조심해서 오르세요.", "bn": "সিঁড়ি সাবধানে উঠুন।", "en": "Please climb the stairs carefully." } }
+]

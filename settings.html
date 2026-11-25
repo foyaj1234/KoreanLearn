@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>সেটিংস — KoreanLearn</title>
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0f1115">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;600;700&family=Noto+Sans+KR:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main class="container">
+    <div class="font-controls" style="float:right"></div>
+    <h1 class="page-title">⚙️ সেটিংস</h1>
+    <p class="page-sub">সব ডেটা আপনার ব্রাউজারেই (localStorage) সেভ থাকে।</p>
+
+    <div class="card">
+      <div class="section-title">🎯 ডেইলি গোল</div>
+      <div class="setting-row">
+        <div>
+          <div class="setting-label">প্রতিদিন কতটি শব্দ শিখতে চান?</div>
+          <div class="setting-desc">স্ট্রিক গোনা হয় দিনে অন্তত ৫টি শব্দ শিখলে।</div>
+        </div>
+        <div style="display:flex;gap:8px;align-items:center">
+          <input type="number" min="1" max="200" class="num-input" id="goal-input">
+          <button class="btn btn-accent" id="goal-save">সেভ</button>
+        </div>
+      </div>
+
+      <div class="section-title">🔤 ফন্ট সাইজ</div>
+      <div class="setting-row">
+        <div>
+          <div class="setting-label">লেখার আকার</div>
+          <div class="setting-desc">সব পেজে প্রযোজ্য।</div>
+        </div>
+        <div class="font-controls"></div>
+      </div>
+
+      <div class="section-title">💾 ব্যাকআপ</div>
+      <div class="setting-row">
+        <div>
+          <div class="setting-label">Export (ডাউনলোড)</div>
+          <div class="setting-desc">সব প্রোগ্রেস JSON ফাইলে সেভ করুন।</div>
+        </div>
+        <button class="btn btn-accent" id="export-btn">⬇️ ডাউনলোড</button>
+      </div>
+      <div class="setting-row">
+        <div>
+          <div class="setting-label">Import (আপলোড)</div>
+          <div class="setting-desc">আগের ব্যাকআপ ফাইল দিয়ে প্রোগ্রেস ফেরান।</div>
+        </div>
+        <div style="display:flex;gap:8px;align-items:center">
+          <input type="file" id="import-file" accept=".json,application/json" class="btn">
+          <button class="btn btn-accent" id="import-btn">⬆️ আপলোড</button>
+        </div>
+      </div>
+
+      <div class="section-title">⚠️ ডেঞ্জার জোন</div>
+      <div class="setting-row">
+        <div>
+          <div class="setting-label">সব ডেটা রিসেট</div>
+          <div class="setting-desc">প্রোগ্রেস, স্ট্রিক, ব্যাজ — সব মুছে যাবে।</div>
+        </div>
+        <button class="btn" id="reset-btn">🗑 রিসেট</button>
+      </div>
+    </div>
+  </main>
+
+  <script src="data/categories.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/settings.js"></script>
+</body>
+</html>

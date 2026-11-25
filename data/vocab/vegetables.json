@@ -1,0 +1,22 @@
+[
+  { "id": "veg-001", "ko": "무", "pron": "মু", "bn": "মুল (শাকতরু)", "en": "radish", "example": { "ko": "무를 김치에 넣어요.", "bn": "মুল কিমচিতে দিই।", "en": "I put radish in kimchi." } },
+  { "id": "veg-002", "ko": "양파", "pron": "ইয়াংপা", "bn": "পিয়াজ", "en": "onion", "example": { "ko": "양파를 썰어요.", "bn": "পিয়াজ কাটি।", "en": "I cut onions." } },
+  { "id": "veg-003", "ko": "마늘", "pron": "মানুল", "bn": "রসুন", "en": "garlic", "example": { "ko": "마늘을 다져요.", "bn": "রসুন বাটি।", "en": "I mince garlic." } },
+  { "id": "veg-004", "ko": "당근", "pron": "তাংগুন", "bn": "গাজর", "en": "carrot", "example": { "ko": "당근이 달고 아삭해요.", "bn": "গাজর মিষ্টি ও খুসখুসে।", "en": "Carrots are sweet and crunchy." } },
+  { "id": "veg-005", "ko": "감자", "pron": "কামজা", "bn": "আলু", "en": "potato", "example": { "ko": "감자를 삶아요.", "bn": "আলু সেদ্ধ করি।", "en": "I boil potatoes." } },
+  { "id": "veg-006", "ko": "고구마", "pron": "কোগুমা", "bn": "মিষ্টি আলু", "en": "sweet potato", "example": { "ko": "군고구마가 맛있어요.", "bn": "সেঁকা মিষ্টি আলু সুস্বাদু।", "en": "Roasted sweet potatoes are tasty." } },
+  { "id": "veg-007", "ko": "배추", "pron": "বেচু", "bn": "চাইনিজ বাঁধাকপি", "en": "napa cabbage", "example": { "ko": "배추김치를 담가요.", "bn": "বেচু কিমচি তৈরি করি।", "en": "I make napa cabbage kimchi." } },
+  { "id": "veg-008", "ko": "시금치", "pron": "শিগুমচি", "bn": "পালং শাক", "en": "spinach", "example": { "ko": "시금치나물을 만들어요.", "bn": "পালং শাকের নামুল বানাই।", "en": "I make seasoned spinach." } },
+  { "id": "veg-009", "ko": "오이", "pron": "ওই", "bn": "শশা", "en": "cucumber", "example": { "ko": "오이가 시원하고 아삭해요.", "bn": "শশা শীতল ও খুসখুসে।", "en": "Cucumbers are cool and crisp." } },
+  { "id": "veg-010", "ko": "호박", "pron": "হোবাক", "bn": "কুমড়া (লাউ জাতীয়)", "en": "pumpkin / squash", "example": { "ko": "호박죽을 끓여요.", "bn": "কুমড়ার জাউ রাঁধি।", "en": "I cook pumpkin porridge." } },
+  { "id": "veg-011", "ko": "가지", "pron": "কাজি", "bn": "বেগুন", "en": "eggplant", "example": { "ko": "가지를 구워 먹어요.", "bn": "বেগুন সেঁকে খাই।", "en": "I grill and eat eggplant." } },
+  { "id": "veg-012", "ko": "고추", "pron": "কোচু", "bn": "মরিচ", "en": "chili pepper", "example": { "ko": "고추가 매워요.", "bn": "মরিচ ঝাল।", "en": "The chili is spicy." } },
+  { "id": "veg-013", "ko": "상추", "pron": "সাংচু", "bn": "লেটুস (সঙ্চু)", "en": "lettuce", "example": { "ko": "상추에 고기를 싸 먹어요.", "bn": "লেটুসে মাংস মুড়িয়ে খাই।", "en": "I wrap meat in lettuce and eat it." } },
+  { "id": "veg-014", "ko": "콩나물", "pron": "কংনামুল", "bn": "ছোলার অঙ্কুর", "en": "soybean sprouts", "example": { "ko": "콩나물국이 시원해요.", "bn": "মুগ-অঙ্কুরের স্যুপ রিফ্রেশিং।", "en": "Soybean sprout soup is refreshing." } },
+  { "id": "veg-015", "ko": "브로콜리", "pron": "বুরোকলি", "bn": "ব্রকলি", "en": "broccoli", "example": { "ko": "브로콜리가 몸에 좋아요.", "bn": "ব্রকলি শরীরের জন্য ভালো।", "en": "Broccoli is good for you." } },
+  { "id": "veg-016", "ko": "버섯", "pron": "বোসত", "bn": "মাশরুম", "en": "mushroom", "example": { "ko": "버섯을 볶아요.", "bn": "মাশরুম ভাজি।", "en": "I stir-fry mushrooms." } },
+  { "id": "veg-017", "ko": "미역", "pron": "মিইয়ক", "bn": "সমুদ্র-শৈবাল (ওয়াকামে)", "en": "seaweed (wakame)", "example": { "ko": "미역국을 끓여요.", "bn": "সমুদ্র-শৈবালের স্যুপ রাঁধি।", "en": "I cook seaweed soup." } },
+  { "id": "veg-018", "ko": "김", "pron": "কিম", "bn": "শুকনো সমুদ্র-শৈবাল", "en": "dried seaweed (nori)", "example": { "ko": "김밥에 김을 사용해요.", "bn": "কিমবাপে কিম ব্যবহার করি।", "en": "I use dried seaweed for kimbap." } },
+  { "id": "veg-019", "ko": "파", "pron": "পা", "bn": "গাঁদা পেঁয়াজ", "en": "green onion / scallion", "example": { "ko": "파를 잘게 썰어요.", "bn": "গাঁদা পেঁয়াজ ছোট করে কাটি।", "en": "I chop green onions finely." } },
+  { "id": "veg-020", "ko": "두부", "pron": "তুবু", "bn": "টোফু (সয়াবিন পনির)", "en": "tofu", "example": { "ko": "두부찌개를 먹어요.", "bn": "টোফুর ঝোল খাই।", "en": "I eat tofu stew." } }
+]

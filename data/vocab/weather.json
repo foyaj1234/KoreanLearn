@@ -1,0 +1,22 @@
+[
+  { "id": "weather-001", "ko": "날씨", "pron": "নালশি", "bn": "আবহাওয়া", "en": "weather", "example": { "ko": "오늘 날씨가 좋아요.", "bn": "আজ আবহাওয়া ভালো।", "en": "The weather is nice today." } },
+  { "id": "weather-002", "ko": "비", "pron": "পি", "bn": "বৃষ্টি", "en": "rain", "example": { "ko": "비가 와요.", "bn": "বৃষ্টি আসছে।", "en": "It is raining." } },
+  { "id": "weather-003", "ko": "눈", "pron": "নুন", "bn": "তুষার / বরফ", "en": "snow", "example": { "ko": "눈이 펑펑 내려요.", "bn": "তুষার ঝরঝর করে পড়ছে।", "en": "It is snowing heavily." } },
+  { "id": "weather-004", "ko": "바람", "pron": "বারাম", "bn": "বাতাস", "en": "wind", "example": { "ko": "바람이 세게 불어요.", "bn": "জোরে বাতাস বইছে।", "en": "The wind blows hard." } },
+  { "id": "weather-005", "ko": "구름", "pron": "গুরুম", "bn": "মেঘ", "en": "cloud", "example": { "ko": "구름이 많아요.", "bn": "মেঘ অনেক।", "en": "There are many clouds." } },
+  { "id": "weather-006", "ko": "해", "pron": "হে", "bn": "সূর্য", "en": "sun", "example": { "ko": "해가 밝게 빛나요.", "bn": "সূর্য উজ্জ্বলভাবে জ্বলছে।", "en": "The sun shines brightly." } },
+  { "id": "weather-007", "ko": "달", "pron": "তাল", "bn": "চাঁদ", "en": "moon", "example": { "ko": "달이 떠 있어요.", "bn": "চাঁদ উঠে আছে।", "en": "The moon is up." } },
+  { "id": "weather-008", "ko": "별", "pron": "বিওল", "bn": "তারা", "en": "star", "example": { "ko": "밤하늘에 별이 많아요.", "bn": "রাতের আকাশে তারা অনেক।", "en": "There are many stars in the night sky." } },
+  { "id": "weather-009", "ko": "무지개", "pron": "মুজিগে", "bn": "রংধনু", "en": "rainbow", "example": { "ko": "무지개가 떠 있어요.", "bn": "রংধনু উঠেছে।", "en": "A rainbow has appeared." } },
+  { "id": "weather-010", "ko": "번개", "pron": "বনগে", "bn": "বিদ্যুৎ", "en": "lightning", "example": { "ko": "번개가 쳤어요.", "bn": "বিদ্যুৎ কষে গেছে।", "en": "Lightning struck." } },
+  { "id": "weather-011", "ko": "천둥", "pron": "চনদুং", "bn": "বজ্রপাত", "en": "thunder", "example": { "ko": "천둥 소리가 커요.", "bn": "বজ্রের শব্দ বড়।", "en": "The thunder is loud." } },
+  { "id": "weather-012", "ko": "안개", "pron": "আনগে", "bn": "কুয়াশা", "en": "fog / mist", "example": { "ko": "안개가 짙어요.", "bn": "কুয়াশা ঘন।", "en": "The fog is thick." } },
+  { "id": "weather-013", "ko": "더위", "pron": "দওই", "bn": "গরম", "en": "heat / hot weather", "example": { "ko": "올해 더위가 심해요.", "bn": "এবার গরম তীব্র।", "en": "This year's heat is severe." } },
+  { "id": "weather-014", "ko": "추위", "pron": "চুই", "bn": "শীত", "en": "cold / cold weather", "example": { "ko": "겨울 추위가 매서워요.", "bn": "শীতের ঠান্ডা কড়া।", "en": "The winter cold is biting." } },
+  { "id": "weather-015", "ko": "폭우", "pron": "পোকু", "bn": "ভারী বৃষ্টি", "en": "heavy rain / downpour", "example": { "ko": "폭우가 쏟아졌어요.", "bn": "ভারী বৃষ্টি ঝরছিল।", "en": "A downpour poured down." } },
+  { "id": "weather-016", "ko": "폭설", "pron": "পোকসল", "bn": "ভারী তুষারপাত", "en": "heavy snow", "example": { "ko": "폭설이 내렸어요.", "bn": "ভারী তুষারপাত হয়েছে।", "en": "Heavy snow fell." } },
+  { "id": "weather-017", "ko": "소나기", "pron": "সোনাগি", "bn": "ছোট বৃষ্টি", "en": "shower / sudden rain", "example": { "ko": "소나기가 오다가 그쳤어요.", "bn": "ছোট বৃষ্টি এসে থেমে গেছে।", "en": "A sudden shower came and stopped." } },
+  { "id": "weather-018", "ko": "습도", "pron": "সুপদো", "bn": "আর্দ্রতা", "en": "humidity", "example": { "ko": "여름에는 습도가 높아요.", "bn": "গরমকালে আর্দ্রতা বেশি।", "en": "Humidity is high in summer." } },
+  { "id": "weather-019", "ko": "기온", "pron": "কিঅন", "bn": "তাপমাত্রা", "en": "temperature", "example": { "ko": "오늘 기온이 10도예요.", "bn": "আজ তাপমাত্রা ১০ ডিগ্রি।", "en": "Today's temperature is 10 degrees." } },
+  { "id": "weather-020", "ko": "일기예보", "pron": "ইলগিয়েবো", "bn": "আবহাওয়ার পূর্বাভাস", "en": "weather forecast", "example": { "ko": "일기예보를 봤어요.", "bn": "আবহাওয়ার পূর্বাভাস দেখেছি।", "en": "I watched the weather forecast." } }
+]

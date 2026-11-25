@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>কুইজ — KoreanLearn</title>
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0f1115">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;600;700&family=Noto+Sans+KR:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main class="container">
+    <div class="font-controls" style="float:right"></div>
+    <h1 class="page-title">❓ কুইজ</h1>
+    <p class="page-sub">১০টি প্রশ্নের রাউন্ড। ধরন ও ক্যাটাগরি বাছাই করুন।</p>
+    <div id="voice-notice"></div>
+
+    <div class="speed-controls"></div>
+
+    <div class="section-title">কুইজের ধরন</div>
+    <div class="chips" id="quiz-type-chips"></div>
+
+    <div class="section-title">ক্যাটাগরি</div>
+    <div class="chips" id="quiz-cat-chips"></div>
+
+    <div id="quiz-host"><p class="muted center">প্রশ্ন তৈরি হচ্ছে…</p></div>
+  </main>
+
+  <script src="data/categories.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/speech.js"></script>
+  <script src="js/quiz.js"></script>
+</body>
+</html>

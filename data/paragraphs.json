@@ -1,0 +1,130 @@
+[
+  {
+    "id": "p-begin-001",
+    "level": "beginner",
+    "title": "안녕하세요 (হ্যালো)",
+    "ko": "안녕하세요. 저는 미나예요. 저는 학생이에요. 한국어를 공부해요. 반갑습니다.",
+    "bn": "হ্যালো। আমি মিনা। আমি একজন ছাত্রী। আমি কোরিয়ান ভাষা পড়ছি। আপনার সাথে পরিচিত হয়ে ভালো লাগল।",
+    "en": "Hello. I am Mina. I am a student. I study Korean. Nice to meet you.",
+    "quiz": [
+      { "q": "미나는 무엇을 공부해요?", "options": ["한국어", "영어", "수학", "음악"], "answer": 0, "expBn": "মিনা কোরিয়ান ভাষা পড়ে।", "expEn": "Mina studies Korean." },
+      { "q": "미나의 직업은 무엇이에요?", "options": ["선생님", "학생", "의사", "가수"], "answer": 1, "expBn": "মিনা ছাত্রী।", "expEn": "Mina is a student." }
+    ]
+  },
+  {
+    "id": "p-begin-002",
+    "level": "beginner",
+    "title": "우리 가족 (আমাদের পরিবার)",
+    "ko": "우리 가족은 네 명이에요. 아버지, 어머니, 동생, 그리고 저예요. 아버지는 회사에 다니세요. 어머니는 요리를 잘하세요. 동생은 아주 귀여워요.",
+    "bn": "আমাদের পরিবারে চার জন। বাবা, মা, ছোট ভাই/বোন, আর আমি। বাবা অফিসে চাকরি করেন। মা রান্নায় পাকা। ছোট ভাই/বোন খুব আদুরে।",
+    "en": "There are four people in my family. Father, mother, younger sibling, and me. Father works at a company. Mother cooks very well. My younger sibling is very cute.",
+    "quiz": [
+      { "q": "우리 가족은 몇 명이에요?", "options": ["세 명", "네 명", "다섯 명", "두 명"], "answer": 1, "expBn": "আমাদের পরিবারে চার জন।", "expEn": "There are four people in my family." },
+      { "q": "어머니는 무엇을 잘하세요?", "options": ["운동", "요리", "노래", "그림"], "answer": 1, "expBn": "মা রান্না ভালো পারেন।", "expEn": "Mother cooks well." },
+      { "q": "아버지는 어디에 다니세요?", "options": ["학교", "병원", "회사", "가게"], "answer": 2, "expBn": "বাবা অফিসে (কোম্পানিতে) যান।", "expEn": "Father works at a company." }
+    ]
+  },
+  {
+    "id": "p-begin-003",
+    "level": "beginner",
+    "title": "오늘 날씨 (আজকের আবহাওয়া)",
+    "ko": "오늘 날씨가 아주 좋아요. 하늘이 파랗고 해가 밝아요. 비가 오지 않아요. 그래서 공원에 가고 싶어요.",
+    "bn": "আজ আবহাওয়া খুব ভালো। আকাশ নীল আর সূর্য উজ্জ্বল। বৃষ্টি হচ্ছে না। তাই পার্কে যেতে ইচ্ছে করছে।",
+    "en": "The weather is very nice today. The sky is blue and the sun is bright. It is not raining. So I want to go to the park.",
+    "quiz": [
+      { "q": "오늘 날씨는 어때요?", "options": ["나빠요", "좋아요", "추워요", "더워요"], "answer": 1, "expBn": "আজ আবহাওয়া ভালো।", "expEn": "The weather is nice today." },
+      { "q": "비가 와요?", "options": ["네, 와요", "아니요, 안 와요", "네, 많이 와요", "모르겠어요"], "answer": 1, "expBn": "না, বৃষ্টি হচ্ছে না।", "expEn": "No, it is not raining." }
+    ]
+  },
+  {
+    "id": "p-begin-004",
+    "level": "beginner",
+    "title": "제 하루 (আমার দিন)",
+    "ko": "저는 아침 7시에 일어나요. 세수를 하고 밥을 먹어요. 9시에 학교에 가요. 오후에 친구를 만나요. 밤에 책을 읽어요.",
+    "bn": "আমি সকাল ৭টায় উঠি। মুখ ধুয়ে ভাত খাই। ৯টায় স্কুলে যাই। দুপুরে বন্ধুর সাথে দেখা করি। রাতে বই পড়ি।",
+    "en": "I get up at 7 in the morning. I wash my face and eat rice. I go to school at 9. In the afternoon I meet a friend. At night I read a book.",
+    "quiz": [
+      { "q": "몇 시에 일어나요?", "options": ["6시", "7시", "8시", "9시"], "answer": 1, "expBn": "৭টায় উঠি।", "expEn": "I get up at 7 o'clock." },
+      { "q": "밤에 무엇을 해요?", "options": ["책을 읽어요", "TV를 봐요", "운동해요", "자요"], "answer": 0, "expBn": "রাতে বই পড়ি।", "expEn": "I read a book at night." },
+      { "q": "몇 시에 학교에 가요?", "options": ["7시", "8시", "9시", "10시"], "answer": 2, "expBn": "৯টায় স্কুলে যাই।", "expEn": "I go to school at 9." }
+    ]
+  },
+  {
+    "id": "p-mid-001",
+    "level": "intermediate",
+    "title": "주말 계획 (সপ্তাহান্তের পরিকল্পনা)",
+    "ko": "이번 주말에 친구와 같이 영화를 보러 갈 거예요. 영화관은 집에서 가까워요. 우리는 영화를 본 후에 맛있는 라면을 먹으러 갈 거예요. 저는 주말이 정말 기다려져요.",
+    "bn": "এই সপ্তাহান্তে বন্ধুর সাথে সিনেমা দেখতে যাব। সিনেমা হল বাড়ির কাছে। সিনেমার পরে সুস্বাদু নুডলস খেতে যাব। আমি সপ্তাহান্তের জন্য সত্যিই অপেক্ষা করছি।",
+    "en": "This weekend I will go watch a movie with my friend. The cinema is close to my house. After the movie, we will go eat delicious ramen. I am really looking forward to the weekend.",
+    "quiz": [
+      { "q": "이번 주말에 무엇을 할 거예요?", "options": ["쇼핑", "영화 보기", "등산", "수영"], "answer": 1, "expBn": "সিনেমা দেখব।", "expEn": "I will watch a movie." },
+      { "q": "영화관은 어디에 있어요?", "options": ["집에서 멀어요", "집에서 가까워요", "학교 옆", "시내 중심"], "answer": 1, "expBn": "সিনেমা হল বাড়ির কাছে।", "expEn": "The cinema is close to my house." },
+      { "q": "영화를 본 후에 무엇을 먹을 거예요?", "options": ["피자", "김밥", "라면", "치킨"], "answer": 2, "expBn": "সিনেমার পরে রামিয়ন খাব।", "expEn": "After the movie, we will eat ramen." }
+    ]
+  },
+  {
+    "id": "p-mid-002",
+    "level": "intermediate",
+    "title": "한국 음식 (কোরিয়ান খাবার)",
+    "ko": "한국 음식은 정말 다양해요. 김치는 매워요. 비빔밥은 색깔이 예뻐요. 떡볶이는 젊은 사람들이 좋아해요. 한국 음식은 건강에도 좋아요. 그래서 저는 한국 음식을 자주 먹어요.",
+    "bn": "কোরিয়ান খাবার সত্যিই বৈচিত্র্যময়। কিমচি ঝাল। বিবিমবাপের রং সুন্দর। তোকবোক্কি তরুণরা পছন্দ করে। কোরিয়ান খাবার স্বাস্থ্যের জন্যও ভালো। তাই আমি প্রায়ই কোরিয়ান খাবার খাই।",
+    "en": "Korean food is really diverse. Kimchi is spicy. Bibimbap has pretty colors. Young people like tteokbokki. Korean food is also good for health. So I often eat Korean food.",
+    "quiz": [
+      { "q": "김치는 어때요?", "options": ["달아요", "매워요", "셔요", "싱거워요"], "answer": 1, "expBn": "কিমচি ঝাল।", "expEn": "Kimchi is spicy." },
+      { "q": "떡볶이를 좋아하는 사람은 누구예요?", "options": ["어린이", "젊은 사람들", "노인", "외국인"], "answer": 1, "expBn": "তরুণরা তোকবোক্কি পছন্দ করে।", "expEn": "Young people like tteokbokki." },
+      { "q": "왜 한국 음식을 자주 먹어요?", "options": ["맛있어서", "건강에 좋아서", "싸서", "만들기 쉬워서"], "answer": 1, "expBn": "স্বাস্থ্যের জন্য ভালো বলে।", "expEn": "Because it is good for health." }
+    ]
+  },
+  {
+    "id": "p-mid-003",
+    "level": "intermediate",
+    "title": "서울 여행 (সিউল ভ্রমণ)",
+    "ko": "지난 여름에 서울에 갔어요. 경복궁에서 한복을 입고 사진을 찍었어요. 명동에서 쇼핑도 하고 길거리 음식도 먹었어요. 한강에서 자전거를 탔어요. 서울은 정말 재미있는 도시예요.",
+    "bn": "গত গরমকালে সিউল গিয়েছিলাম। গিয়ংবক প্রাসাদে হানবোক পরে ছবি তুলেছি। মিয়ংদংয়ে শপিং করেছি আর স্ট্রিট ফুড খেয়েছি। হান নদীতে সাইকেল চালিয়েছি। সিউল সত্যিই মজার শহর।",
+    "en": "Last summer I went to Seoul. I wore hanbok and took photos at Gyeongbokgung Palace. I shopped in Myeongdong and ate street food. I rode a bicycle at the Han River. Seoul is a really fun city.",
+    "quiz": [
+      { "q": "어디에서 한복을 입었어요?", "options": ["명동", "경복궁", "한강", "인사동"], "answer": 1, "expBn": "গিয়ংবক প্রাসাদে হানবোক পরেছি।", "expEn": "I wore hanbok at Gyeongbokgung Palace." },
+      { "q": "명동에서 무엇을 했어요?", "options": ["사진을 찍었어요", "쇼핑을 했어요", "자전거를 탔어요", "수영을 했어요"], "answer": 1, "expBn": "মিয়ংদংয়ে শপিং করেছি।", "expEn": "I shopped in Myeongdong." },
+      { "q": "한강에서 무엇을 했어요?", "options": ["보트를 탔어요", "자전거를 탔어요", "낚시를 했어요", "산책했어요"], "answer": 1, "expBn": "হান নদীতে সাইকেল চালিয়েছি।", "expEn": "I rode a bicycle at the Han River." }
+    ]
+  },
+  {
+    "id": "p-adv-001",
+    "level": "advanced",
+    "title": "한국어 공부의 어려움 (কোরিয়ান শেখার কঠিন দিক)",
+    "ko": "한국어를 배우는 것은 쉽지 않지만 보람 있어요. 가장 어려운 것은 존댓말과 반말을 구분하는 거예요. 상황에 따라 말하는 방식이 달라요. 하지만 매일 연습하면 실력이 늘어요. 언어는 꾸준함이 가장 중요해요.",
+    "bn": "কোরিয়ান ভাষা শেখা সহজ নয়, কিন্তু ফলপ্রসূ। সবচেয়ে কঠিন হলো সম্মানসূচক ভাষা (চোনদেনমাল) আর সাধারণ ভাষা (বানমাল) আলাদা করা। পরিস্থিতি অনুযায়ী কথা বলার ধরন বদলায়। তবে প্রতিদিন অনুশীলন করলে দক্ষতা বাড়ে। ভাষার ক্ষেত্রে নিয়মিত অনুশীলনই সবচেয়ে জরুরি।",
+    "en": "Learning Korean is not easy but it is rewarding. The hardest part is distinguishing honorific speech (jondaetmal) from casual speech (banmal). The way you speak changes depending on the situation. But if you practice every day, your skills improve. Consistency is the most important thing in language learning.",
+    "quiz": [
+      { "q": "한국어 공부에서 가장 어려운 것은 무엇이에요?", "options": ["단어 외우기", "존댓말과 반말 구분", "발음", "문법"], "answer": 1, "expBn": "সম্মানসূচক ও সাধারণ ভাষা আলাদা করা সবচেয়ে কঠিন।", "expEn": "Distinguishing honorific and casual speech is hardest." },
+      { "q": "실력을 늘리려면 어떻게 해야 해요?", "options": ["돈이 많아야 해요", "매일 연습해야 해요", "한국에 가야 해요", "책만 읽어야 해요"], "answer": 1, "expBn": "প্রতিদিন অনুশীলন করতে হবে।", "expEn": "You need to practice every day." },
+      { "q": "이 글의 중심 생각은 무엇이에요?", "options": ["한국어는 너무 어려워요", "꾸준함이 중요해요", "한국어는 재미없어요", "혼자 공부 못 해요"], "answer": 1, "expBn": "নিয়মিত অনুশীলনই সবচেয়ে জরুরি।", "expEn": "Consistency is the most important thing." }
+    ]
+  },
+  {
+    "id": "p-adv-002",
+    "level": "advanced",
+    "title": "환경 보호 (পরিবেশ রক্ষা)",
+    "ko": "지구 환경이 점점 나빠지고 있어요. 플라스틱 쓰레기가 바다를 오염시켜요. 우리는 일회용 컵을 줄이고 에너지를 아껴야 해요. 작은 노력이 모이면 큰 변화를 만들 수 있어요. 다음 세대를 위해 지금부터 실천해야 해요.",
+    "bn": "পৃথিবীর পরিবেশ ক্রমেই খারাপ হচ্ছে। প্লাস্টিকের আবর্জনা সমুদ্র দূষিত করছে। আমাদের একবার ব্যবহারযোগ্য কাপ কমাতে হবে আর শক্তি বাঁচাতে হবে। ছোট ছোট চেষ্টা জমা হলে বড় পরিবর্তন আনা সম্ভব। পরবর্তী প্রজন্মের জন্য এখন থেকেই কাজ শুরু করতে হবে।",
+    "en": "The Earth's environment is getting worse and worse. Plastic waste pollutes the ocean. We should reduce disposable cups and save energy. When small efforts come together, they can create big change. For the next generation, we must start practicing from now.",
+    "quiz": [
+      { "q": "무엇이 바다를 오염시켜요?", "options": ["플라스틱 쓰레기", "소음", "빛", "연기"], "answer": 0, "expBn": "প্লাস্টিকের আবর্জনা সমুদ্র দূষিত করছে।", "expEn": "Plastic waste pollutes the ocean." },
+      { "q": "우리가 해야 할 일은 무엇이에요?", "options": ["쓰레기를 바다에 버리기", "일회용 컵 줄이기", "에너지 낭비하기", "플라스틱 사기"], "answer": 1, "expBn": "একবার ব্যবহারযোগ্য কাপ কমাতে হবে।", "expEn": "We should reduce disposable cups." },
+      { "q": "작은 노력은 어떤 결과를 만들어요?", "options": ["아무 것도 못 해요", "큰 변화를 만들어요", "문제가 생겨요", "돈이 들어요"], "answer": 1, "expBn": "ছোট চেষ্টা মিলে বড় পরিবর্তন আনে।", "expEn": "Small efforts create big change." }
+    ]
+  },
+  {
+    "id": "p-adv-003",
+    "level": "advanced",
+    "title": "성공적인 삶 (সফল জীবন)",
+    "ko": "성공적인 삶이란 무엇일까요? 어떤 사람은 돈이 많으면 성공했다고 생각해요. 어떤 사람은 행복하면 성공했다고 믿어요. 저는 꾸준히 노력하면서 자신이 좋아하는 일을 하는 것이 진짜 성공이라고 생각해요. 남과 비교하지 말고 어제의 나와 비교하세요.",
+    "bn": "সফল জীবন আসলে কী? কারো কারো মতে টাকা বেশি থাকলেই সফলতা। কারো মতে সুখী হলেই সফলতা। আমার মতে, নিয়মিত চেষ্টা চালিয়ে যাওয়া আর নিজের পছন্দের কাজ করাই আসল সফলতা। অন্যের সাথে নয়, নিজের গতকালের সাথে তুলনা করুন।",
+    "en": "What is a successful life? Some people think having a lot of money means success. Some people believe being happy means success. I think real success is continuing to make an effort while doing what you love. Don't compare with others; compare with yesterday's self.",
+    "quiz": [
+      { "q": "어떤 사람은 무엇을 성공이라고 생각해요?", "options": ["돈이 많은 것", "잠을 많이 자는 것", "여행하는 것", "먹는 것"], "answer": 0, "expBn": "কারো মতে টাকা বেশি থাকাই সফলতা।", "expEn": "Some think having lots of money is success." },
+      { "q": "글쓴이는 진짜 성공이 무엇이라고 생각해요?", "options": ["돈을 버는 것", "좋아하는 일을 하며 노력하는 것", "유명해지는 것", "남보다 나은 것"], "answer": 1, "expBn": "পছন্দের কাজ করতে করতে চেষ্টা চালিয়ে যাওয়াই আসল সফলতা।", "expEn": "Real success is working hard at what you love." },
+      { "q": "무엇과 비교해야 해요?", "options": ["친구와", "유명한 사람과", "어제의 나와", "이웃과"], "answer": 2, "expBn": "নিজের গতকালের সাথে তুলনা করতে হবে।", "expEn": "You should compare with your yesterday's self." }
+    ]
+  }
+]

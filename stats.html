@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>স্ট্যাটস — KoreanLearn</title>
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0f1115">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;600;700&family=Noto+Sans+KR:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main class="container">
+    <div class="font-controls" style="float:right"></div>
+    <h1 class="page-title">📊 স্ট্যাটস</h1>
+    <p class="page-sub">আপনার শেখার অগ্রগতি।</p>
+
+    <div class="stats-row">
+      <div class="stat-box"><div class="num" id="stat-today">0</div><div class="label">📖 আজ</div></div>
+      <div class="stat-box"><div class="num" id="stat-week">0</div><div class="label">📅 এই সপ্তাহ</div></div>
+      <div class="stat-box"><div class="num" id="stat-month">0</div><div class="label">🗓 এই মাস</div></div>
+    </div>
+    <div class="stats-row">
+      <div class="stat-box"><div class="num" id="stat-total">0</div><div class="label">📚 মোট শেখা শব্দ</div></div>
+      <div class="stat-box"><div class="num" id="stat-streak">0</div><div class="label">🔥 স্ট্রিক</div></div>
+      <div class="stat-box"><div class="num" style="opacity:0">—</div><div class="label" style="opacity:0">—</div></div>
+    </div>
+
+    <div class="card goal-card">
+      <div class="goal-head"><span>🎯 আজকের গোল</span></div>
+      <div id="goal-progress"></div>
+    </div>
+
+    <div class="section-title">📈 গত ৭ দিনে শেখা শব্দ</div>
+    <div class="chart-wrap">
+      <div class="chart-bars" id="chart-bars"></div>
+    </div>
+
+    <div class="section-title">🏅 ব্যাজ</div>
+    <div class="badge-grid" id="badge-grid"></div>
+  </main>
+
+  <script src="data/categories.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/stats.js"></script>
+</body>
+</html>
