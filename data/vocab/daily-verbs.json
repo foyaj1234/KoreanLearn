@@ -1,0 +1,22 @@
+[
+  { "id": "verb-001", "ko": "일어나다", "pron": "ইরোনাদা", "bn": "ঘুম থেকে ওঠা", "en": "to wake up / get up", "example": { "ko": "아침에 일어나요.", "bn": "সকালে উঠি।", "en": "I wake up in the morning." } },
+  { "id": "verb-002", "ko": "씻다", "pron": "শিস্সদা", "bn": "ধোওয়া", "en": "to wash", "example": { "ko": "아침에 씻어요.", "bn": "সকালে ধুই।", "en": "I wash up in the morning." } },
+  { "id": "verb-003", "ko": "먹다", "pron": "মোকদা", "bn": "খাওয়া", "en": "to eat", "example": { "ko": "밥을 먹어요.", "bn": "ভাত খাই।", "en": "I eat rice/a meal." } },
+  { "id": "verb-004", "ko": "마시다", "pron": "মাশিদা", "bn": "পান করা", "en": "to drink", "example": { "ko": "물을 마셔요.", "bn": "জল পান করি।", "en": "I drink water." } },
+  { "id": "verb-005", "ko": "가다", "pron": "কাদা", "bn": "যাওয়া", "en": "to go", "example": { "ko": "학교에 가요.", "bn": "স্কুলে যাই।", "en": "I go to school." } },
+  { "id": "verb-006", "ko": "오다", "pron": "ওদা", "bn": "আসা", "en": "to come", "example": { "ko": "친구가 집에 와요.", "bn": "বন্ধু বাড়িতে আসে।", "en": "A friend comes to my house." } },
+  { "id": "verb-007", "ko": "보다", "pron": "বোদা", "bn": "দেখা", "en": "to see / watch", "example": { "ko": "영화를 봐요.", "bn": "সিনেমা দেখি।", "en": "I watch a movie." } },
+  { "id": "verb-008", "ko": "듣다", "pron": "দুদদা", "bn": "শোনা", "en": "to listen / hear", "example": { "ko": "음악을 들어요.", "bn": "গান শুনি।", "en": "I listen to music." } },
+  { "id": "verb-009", "ko": "읽다", "pron": "ইকদা", "bn": "পড়া", "en": "to read", "example": { "ko": "책을 읽어요.", "bn": "বই পড়ি।", "en": "I read a book." } },
+  { "id": "verb-010", "ko": "쓰다", "pron": "স্সুদা", "bn": "লেখা", "en": "to write", "example": { "ko": "일기를 써요.", "bn": "ডায়েরি লিখি।", "en": "I write a diary." } },
+  { "id": "verb-011", "ko": "자다", "pron": "জাদা", "bn": "ঘুমানো", "en": "to sleep", "example": { "ko": "밤에 일찍 자요.", "bn": "রাতে তাড়াতাড়ি ঘুমাই।", "en": "I sleep early at night." } },
+  { "id": "verb-012", "ko": "공부하다", "pron": "কোংবুহাদা", "bn": "পড়াশোনা করা", "en": "to study", "example": { "ko": "한국어를 공부해요.", "bn": "কোরিয়ান ভাষা পড়ি।", "en": "I study Korean." } },
+  { "id": "verb-013", "ko": "운동하다", "pron": "উনদোংহাদা", "bn": "ব্যায়াম করা", "en": "to exercise", "example": { "ko": "매일 운동해요.", "bn": "প্রতিদিন ব্যায়াম করি।", "en": "I exercise every day." } },
+  { "id": "verb-014", "ko": "일하다", "pron": "ইলহাদা", "bn": "কাজ করা", "en": "to work", "example": { "ko": "회사에서 일해요.", "bn": "অফিসে কাজ করি।", "en": "I work at a company." } },
+  { "id": "verb-015", "ko": "만나다", "pron": "মান্নাদা", "bn": "দেখা করা", "en": "to meet", "example": { "ko": "친구를 만나요.", "bn": "বন্ধুর সাথে দেখা করি।", "en": "I meet a friend." } },
+  { "id": "verb-016", "ko": "사다", "pron": "সাদা", "bn": "কেনা", "en": "to buy", "example": { "ko": "빵을 사요.", "bn": "রুটি কিনি।", "en": "I buy bread." } },
+  { "id": "verb-017", "ko": "요리하다", "pron": "ইওরিহাদা", "bn": "রান্না করা", "en": "to cook", "example": { "ko": "저녁을 요리해요.", "bn": "রাতের খাবার রাঁধি।", "en": "I cook dinner." } },
+  { "id": "verb-018", "ko": "청소하다", "pron": "চংসোহাদা", "bn": "পরিষ্কার করা", "en": "to clean", "example": { "ko": "방을 청소해요.", "bn": "ঘর পরিষ্কার করি।", "en": "I clean the room." } },
+  { "id": "verb-019", "ko": "전화하다", "pron": "জোনওয়াহাদা", "bn": "ফোন করা", "en": "to call (phone)", "example": { "ko": "엄마에게 전화해요.", "bn": "মাকে ফোন করি।", "en": "I call my mom." } },
+  { "id": "verb-020", "ko": "쉬다", "pron": "শিদা", "bn": "বিশ্রাম নেওয়া", "en": "to rest", "example": { "ko": "잠깐 쉬세요.", "bn": "একটু বিশ্রাম নিন।", "en": "Take a short rest." } }
+]
