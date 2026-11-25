@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KoreanLearn — কোরিয়ান ভাষা শিখুন</title>
+  <meta name="description" content="বাংলাভাষীদের জন্য কোরিয়ান ভাষা শেখার ফ্রি ওয়েবসাইট">
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <meta name="theme-color" content="#0f1115">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;600;700&family=Noto+Sans+KR:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main class="container">
+    <h1 class="page-title">안녕하세요! 👋</h1>
+    <p class="page-sub">কোরিয়ান ভাষা শেখা শুরু করুন — একদম ফ্রি।</p>
+
+    <!-- Daily word -->
+    <div class="section-title">📅 আজকের ডেইলি ওয়ার্ড</div>
+    <div id="daily-word"><p class="muted">লোড হচ্ছে…</p></div>
+
+    <!-- Stats + goal -->
+    <div class="stats-row">
+      <div class="stat-box"><div class="num" id="home-streak">0</div><div class="label">🔥 স্ট্রিক</div></div>
+      <div class="stat-box"><div class="num" id="home-today">0</div><div class="label">📖 আজ শেখা শব্দ</div></div>
+      <div class="stat-box"><div class="num" id="home-total">0</div><div class="label">📚 মোট শেখা শব্দ</div></div>
+    </div>
+    <div class="card goal-card">
+      <div class="goal-head"><span>🎯 আজকের গোল</span><span class="goal-num" id="goal-text"></span></div>
+      <div class="progress-bar"><div class="fill" id="goal-fill" style="width:0%"></div></div>
+      <div class="muted" id="goal-sub"></div>
+    </div>
+
+    <!-- Search -->
+    <div class="search-wrap">
+      <input id="global-search" class="search-input" type="search" placeholder="🔍 খুঁজুন: কোরিয়ান, বাংলা বা ইংরেজিতে…">
+      <div id="search-results"></div>
+    </div>
+
+    <!-- Category grid -->
+    <div class="section-title">📂 ক্যাটাগরি</div>
+    <div class="grid" id="home-cats"></div>
+
+    <div class="section-title">🎯 আরও শিখুন</div>
+    <div class="grid">
+      <a class="card card-link" href="reading.html"><div class="icon">📄</div><div class="name">রিডিং প্র্যাকটিস</div><div class="name-en">Reading</div></a>
+      <a class="card card-link" href="flashcard.html"><div class="icon">🃏</div><div class="name">ফ্ল্যাশকার্ড</div><div class="name-en">Flashcards</div></a>
+      <a class="card card-link" href="quiz.html"><div class="icon">❓</div><div class="name">কুইজ</div><div class="name-en">Quiz</div></a>
+      <a class="card card-link" href="hangul.html"><div class="icon">ㅎ</div><div class="name">হাঙ্গুল শেখা</div><div class="name-en">Hangul</div></a>
+      <a class="card card-link" href="stats.html"><div class="icon">📊</div><div class="name">স্ট্যাটস</div><div class="name-en">Stats</div></a>
+      <a class="card card-link" href="settings.html"><div class="icon">⚙️</div><div class="name">সেটিংস</div><div class="name-en">Settings</div></a>
+    </div>
+
+    <div class="mt-16 mb-16">
+      <div class="font-controls"></div>
+      <div class="speed-controls mt-8"></div>
+    </div>
+  </main>
+
+  <script src="data/categories.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/speech.js"></script>
+  <script src="js/search.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      // home stats
+      Stats.recomputeStreak();
+      document.getElementById('home-streak').textContent = Stats.getStreak();
+      document.getElementById('home-today').textContent = Stats.todayWords();
+      document.getElementById('home-total').textContent = Progress.learned().size;
+
+      // goal
+      const goal = Stats.goal(), today = Stats.todayWords();
+      document.getElementById('goal-text').textContent = today + ' / ' + goal;
+      document.getElementById('goal-fill').style.width = Math.min(100, (today / goal) * 100) + '%';
+      document.getElementById('goal-sub').textContent = 'দিনে ' + goal + 'টি শব্দ শেখাই আজকের লক্ষ্য';
+
+      // category grid
+      document.getElementById('home-cats').innerHTML = CATEGORIES.map(c => `
+        <a class="card card-link" href="vocabulary.html?cat=${c.id}">
+          <div class="icon">${c.icon}</div>
+          <div class="name">${escapeHtml(c.bn)}</div>
+          <div class="name-en">${escapeHtml(c.en)}</div>
+        </a>`).join('');
+
+      // daily word
+      const w = await dailyWord();
+      if (w) {
+        const learned = Progress.isLearned(w.id);
+        document.getElementById('daily-word').innerHTML = `
+          <div class="word-card">
+            <div class="word-ko">${escapeHtml(w.ko)}</div>
+            <div class="word-pron">(${escapeHtml(w.pron)})</div>
+            <div class="word-meaning">${escapeHtml(w.bn)} <span class="en">/ ${escapeHtml(w.en)}</span></div>
+            <div class="word-example">
+              <span class="ex-ko">${escapeHtml(w.example.ko)}</span>
+              <span class="ex-bn">${escapeHtml(w.example.bn)}</span>
+              <span class="ex-en">${escapeHtml(w.example.en)}</span>
+            </div>
+            <div class="word-actions">
+              <button class="btn btn-icon" id="dw-speak">🔊</button>
+              <button class="btn btn-icon" id="dw-star" title="কঠিন শব্দ">⭐</button>
+            </div>
+          </div>`;
+        document.getElementById('dw-speak').onclick = () => Speech.speak(w.ko);
+        document.getElementById('dw-star').onclick = () => { Progress.toggleStar(w.id); toast('⭐ সেভ হলো'); };
+      }
+    });
+  </script>
+</body>
+</html>
